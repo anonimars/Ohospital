@@ -1,0 +1,488 @@
+.register-entry-point {
+    background: #F7FCFD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90rem;
+    box-sizing: border-box;
+  }
+  .welcome-to-my-ohospital-portal {
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 3.6rem;
+    letter-spacing: 0rem;
+    line-height: 1.333;
+  }
+  .welcome-to-my-ohospital-portal-sub21 {
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 3.6rem;
+    letter-spacing: 0rem;
+    line-height: 1.333;
+    color: #00CCE4;
+  }
+  .welcome-to-my-ohospital-portal-sub22 {
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 3.6rem;
+    letter-spacing: 0rem;
+    line-height: 1.333;
+  }
+  .i-am-a {
+    margin: 0 0.1rem 1.1rem 0.1rem;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.75;
+    color: #454E4F;
+  }
+  .browser-url-controls {
+    margin-bottom: 0.1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .toolbar-url-controls {
+    box-shadow: inset 0rem -0.1rem 0rem 0rem #DADCE0; /* Removed extra parenthesis */
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 0.3rem 1.3rem 0.3rem 0.9rem;
+    width: 90rem;
+    box-sizing: border-box;
+  }
+  
+  .toolbar-browser-controls {
+    border-radius: 0.5rem 0.5rem 0 0;
+    background: #DEE1E6;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 0.5rem 0 0 0.8rem;
+    width: 90rem;
+    box-sizing: border-box;
+  }
+  .rectangle-6 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/0eecfd94ef5a761bc3ef46aae5e1f2b1c814644b?Expires=1712267743&KeyName=fn12-cdn&Signature=7iy-A3RbWABNs-XDo-ScEbeE7uE=') 50% / cover no-repeat;
+    width: 44.3rem;
+    height: 43.4rem;
+  }
+  .full-logo {
+    margin-bottom: 1.8rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ohospital-logo {
+    margin: 0.2rem 0.5rem 0.2rem 0;
+    width: 2.1rem;
+    height: 1.4rem;
+  }
+  .ohospital {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    color: #002E33;
+  }
+  .frame {
+    margin: 0.1rem 0.9rem 1.9rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1rem;
+    height: 1rem;
+    box-sizing: border-box;
+  }
+  .vector {
+    width: 1rem;
+    height: 1rem;
+  }
+  .diagnostician-medical-doctor-medical-officer-clinical-officer {
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.333;
+    color: #4C5B5D;
+  }
+  .diagnostician-medical-doctor-medical-officer-clinical-officer-sub4 {
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.333;
+    color: #002E33;
+  }
+  .frame-8 {
+    margin: 0 0.2rem 1.8rem 0.2rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1 {
+    margin: 0.4rem 0.9rem 0.4rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1rem;
+    height: 1rem;
+    box-sizing: border-box;
+  }
+  .vector-2 {
+    width: 1rem;
+    height: 1rem;
+  }
+  .a-patient {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    color: #002E33;
+  }
+  .frame-3 {
+    margin: 0 0.9rem 2rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1rem;
+    height: 1rem;
+    box-sizing: border-box;
+  }
+  .vector-4 {
+    width: 1rem;
+    height: 1rem;
+  }
+  .a-medical-agent-pharmacist-community-healthcare-specialist-private-care {
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.333;
+    color: #4C5B5D;
+  }
+  .a-medical-agent-pharmacist-community-healthcare-specialist-private-care-sub3 {
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 1.3rem;
+    line-height: 1.333;
+    color: #002E33;
+  }
+  .cta {
+    background: #00CCE4;
+    margin-left: 0.2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.6rem 0rem 0.6rem 0;
+    width: 33.4rem;
+    box-sizing: border-box;
+  }
+  .submit {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    color: #FFFFFF;
+  }
+  .together-we-make-better-healthcare-possible {
+    margin-bottom: 1.4rem;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    color: #4C5B5D;
+  }
+  .container {
+    margin: 2.4rem 8.5rem 3.8rem 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .container-5 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .container-6 {
+    margin: 0 0.2rem 1.8rem 0.2rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-7 {
+    margin-left: 3.7rem;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-8 {
+    margin: 0 0.2rem 3.7rem 0.2rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .image-user-profile {
+    border-radius: 0.7rem;
+    background: rgba(0, 0, 0, 0.2);
+    margin-right: 1.2rem;
+    width: 1.4rem;
+    height: 1.4rem;
+  }
+  .url-bar {
+    border-radius: 0.9rem;
+    background: #F1F3F4;
+    position: relative;
+    margin-right: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0.4rem 0.8rem;
+    width: 76.6rem;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-favorite {
+    margin: 0.1rem 0 0.2rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-9 {
+    width: 0.8rem;
+    height: 0.7rem;
+  }
+  .url-text {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .subdomain {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 0.9rem;
+    letter-spacing: 0rem;
+    color: #696A6C;
+  }
+  .domain-com {
+    margin-right: 0rem;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 0.9rem;
+    letter-spacing: 0rem;
+    color: #202124;
+  }
+  .icon-secure {
+    margin: 0.2rem 0.8rem 0.2rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.5rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-10 {
+    width: 0.5rem;
+    height: 0.7rem;
+  }
+  .left-locked-icons {
+    margin: 0.5rem 0.9rem 0.5rem 0;
+    display: flex;
+    flex-direction: row;
+    width: 6.6rem;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-home {
+    margin-top: 0rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-11 {
+    width: 0.8rem;
+    height: 0.7rem;
+  }
+  .icon-refresh {
+    margin: 0 1.2rem 0rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.7rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-12 {
+    width: 0.7rem;
+    height: 0.7rem;
+  }
+  .icon-forward {
+    margin: 0 1.2rem 0rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-13 {
+    width: 0.8rem;
+    height: 0.7rem;
+  }
+  .icon-back {
+    margin: 0 1.2rem 0rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-14 {
+    width: 0.8rem;
+    height: 0.7rem;
+  }
+  .right-locked-icons {
+    margin: 0.2rem 0;
+    display: flex;
+    flex-direction: row;
+    width: 2.8rem;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-more {
+    margin: 0.3rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.2rem;
+    height: 0.8rem;
+    box-sizing: border-box;
+  }
+  .container-15 {
+    width: 0.2rem;
+    height: 0.8rem;
+  }
+  .tab-plus {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .curve-r {
+    margin-top: 1.6rem;
+    width: 0.4rem;
+    height: 0.5rem;
+  }
+  .curve-l {
+    margin-top: 1.6rem;
+    width: 0.4rem;
+    height: 0.5rem;
+  }
+  .favicon-text-icons {
+    border-radius: 0.5rem 0.5rem 0 0;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 0.6rem 0.8rem 0.6rem 0.5rem;
+    box-sizing: border-box;
+  }
+  .icon-close {
+    margin: 0.3rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.5rem;
+    height: 0.5rem;
+    box-sizing: border-box;
+  }
+  .container-16 {
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+  .tab-name {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 0.8rem;
+    letter-spacing: 0rem;
+    line-height: 1.333;
+    color: #FFFFFF;
+  }
+  .favicon {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/0c96ccfbda7bda53f39c1437cf5bb8dbdf5b6a60?Expires=1712267743&KeyName=fn12-cdn&Signature=hj5kWBZfnBAbqqqzQsMLyJmICvs=') 50% / cover no-repeat;
+    margin-right: 0.6rem;
+    width: 1rem;
+    height: 1rem;
+  }
+  .frame-4 {
+    margin-right: 0.7rem;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .icon-plus {
+    margin: 0.6rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.8rem;
+    box-sizing: border-box;
+  }
+  .icon-new-tab {
+    width: 0.8rem;
+    height: 0.8rem;
+  }
+  .browser-controls {
+    margin: 0.5rem 0.6rem 0.9rem 0;
+    display: flex;
+    flex-direction: row;
+    width: 3.3rem;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .option-expand {
+    border-radius: 0.4rem;
+    background: #27CA40;
+    width: 0.8rem;
+    height: 0.8rem;
+  }
+  .option-minimize {
+    border-radius: 0.4rem;
+    background: #FFC130;
+    margin-right: 0.5rem;
+    width: 0.8rem;
+    height: 0.8rem;
+  }
+  .option-close {
+    border-radius: 0.4rem;
+    background: #FF6058;
+    margin-right: 0.5rem;
+    width: 0.8rem;
+    height: 0.8rem;
+  }

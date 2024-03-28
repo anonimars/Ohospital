@@ -1,0 +1,753 @@
+.register-entry-point {
+    background: #FAFEFF;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 3.2rem;
+    width: 90rem;
+    box-sizing: border-box;
+  }
+  .hello-daktari-create-an-ohospital-account {
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 2.5rem;
+    letter-spacing: 0rem;
+    line-height: 1.333;
+  }
+  .hello-daktari-create-an-ohospital-account-sub43 {
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 2.5rem;
+    letter-spacing: 0rem;
+    line-height: 1.333;
+    color: #00CCE4;
+  }
+  .hello-daktari-create-an-ohospital-account-sub44 {
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 2.5rem;
+    letter-spacing: 0rem;
+    line-height: 1.333;
+  }
+  .browser-url-controls {
+    position: relative;
+    margin-bottom: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .toolbar-url-controls {
+    box-shadow: inset 0rem -0.1rem 0rem 0rem #DADCE0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 0.3rem 1.3rem 0.3rem 0.9rem;
+    width: 90rem;
+    box-sizing: border-box;
+  }
+  .toolbar-browser-controls {
+    border-radius: 0.5rem 0.5rem 0 0;
+    background: #DEE1E6;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 0.5rem 0 0 0.8rem;
+    width: 90rem;
+    box-sizing: border-box;
+  }
+  .rectangle-5154 {
+    background: #D9D9D9;
+    position: absolute;
+    right: -1.4rem;
+    bottom: -54rem;
+    width: 33.2rem;
+    height: 54.1rem;
+  }
+  .full-logo {
+    margin: 0 3.7rem 2.7rem 3.7rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ohospital-logo {
+    margin: 0.2rem 0.5rem 0.2rem 0;
+    width: 2.1rem;
+    height: 1.4rem;
+  }
+  .ohospital {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    color: #002E33;
+  }
+  .already-have-an-account-awesome-sign-in-instead {
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    text-decoration-line: underline;
+    line-height: 1.333;
+    color: #00CCE4;
+  }
+  .already-have-an-account-awesome-sign-in-instead-sub4 {
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.333;
+  }
+  .group-1000003988 {
+    margin: 0 3.5rem 0rem 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .group-1000002380 {
+    border-radius: 0.3rem;
+    border: 0.1rem solid #E5FCFF;
+    background: #E5FCFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 0.8rem 0 0.6rem 0.9rem;
+    width: 24.5rem;
+    box-sizing: border-box;
+  }
+  .michael-ojiambo-23-gmail-com {
+    overflow-wrap: break-word;
+    font-family: 'Outfit';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .frame {
+    margin: 0.3rem 0.9rem 0.3rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.2rem;
+    height: 0.9rem;
+    box-sizing: border-box;
+  }
+  .vector {
+    width: 1.2rem;
+    height: 0.9rem;
+  }
+  .email-address {
+    margin: 0 0rem 0.7rem 0rem;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.375;
+    color: #002E33;
+  }
+  .group-10000023801 {
+    border-radius: 0.3rem;
+    border: 0.1rem solid #E5FCFF;
+    background: #E5FCFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 0.7rem 0 0.7rem 0.8rem;
+    width: 24.5rem;
+    box-sizing: border-box;
+  }
+  .frame-3 {
+    margin: 0.2rem 0.9rem 0.3rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1rem;
+    height: 1rem;
+    box-sizing: border-box;
+  }
+  .vector-4 {
+    width: 1rem;
+    height: 1rem;
+  }
+  .michael {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .first-name {
+    margin-bottom: 0.8rem;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.375;
+    color: #002E33;
+  }
+  .group-1000004049 {
+    border-radius: 0.3rem;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .group-10000023805 {
+    border-radius: 0.3rem;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ojiambo {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .oluoch {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .surname-and-last-names {
+    margin-bottom: 0.8rem;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.375;
+    color: #002E33;
+  }
+  .group-1000004047 {
+    border-radius: 0.3rem;
+    display: flex;
+    flex-direction: column;
+    width: 24.5rem;
+    box-sizing: border-box;
+  }
+  .group-10000023807 {
+    border-radius: 0.3rem;
+    border: 0.1rem solid #E5FCFF;
+    background: #E5FCFF;
+    position: relative;
+    padding: 0.7rem 0.8rem;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  ._254723456789 {
+    overflow-wrap: break-word;
+    font-family: 'Outfit';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .phone-number {
+    margin-bottom: 0.8rem;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.375;
+    color: #002E33;
+  }
+  .group-1000004050 {
+    border-radius: 0.3rem;
+    margin: 0 3.8rem 0.9rem 3.8rem;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .group-10000023809 {
+    border-radius: 0.3rem;
+    border: 0.1rem solid #008999;
+    background: #E5FCFF;
+    position: relative;
+    padding: 0.7rem 0.9rem;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .mni-mo-3 {
+    overflow-wrap: break-word;
+    font-family: 'Outfit';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .unique-password {
+    margin-bottom: 0.8rem;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.375;
+    color: #002E33;
+  }
+  .frame-1000003586 {
+    margin: 0 3.9rem 1.9rem 3.9rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-11 {
+    margin: 0.2rem 1.2rem 0.2rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1.1rem;
+    height: 0.9rem;
+    box-sizing: border-box;
+  }
+  .vector-12 {
+    width: 1.1rem;
+    height: 0.9rem;
+  }
+  .back-to-previous-page {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.375;
+    color: #002E33;
+  }
+  .cta {
+    border-radius: 0.5rem;
+    background: #00CCE4;
+    margin: 0 3.8rem 2.2rem 3.8rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 0.6rem 0rem 0.6rem 0;
+    width: 52.5rem;
+    box-sizing: border-box;
+  }
+  .submit {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    color: #FFFFFF;
+  }
+  .frame-1000004161 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .ellipse-2863 {
+    border-radius: 0.3rem;
+    background: #002E33;
+    margin: 0.6rem 0.5rem 0.6rem 0;
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+  .one-number {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 0.9rem;
+    line-height: 2;
+    color: #002E33;
+  }
+  .frame-1000004162 {
+    margin-right: 1.7rem;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .ellipse-286313 {
+    border-radius: 0.3rem;
+    background: #002E33;
+    margin: 0.6rem 0.5rem 0.6rem 0;
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+  .one-lowcase-character {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 0.9rem;
+    line-height: 2;
+    color: #002E33;
+  }
+  .frame-1000004163 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .ellipse-286314 {
+    border-radius: 0.3rem;
+    background: #002E33;
+    margin: 0.6rem 0.5rem 0.6rem 0;
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+  .one-uppercase-character {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 0.9rem;
+    line-height: 2;
+    color: #002E33;
+  }
+  .frame-1000004164 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .ellipse-286315 {
+    border-radius: 0.3rem;
+    background: #94B4B8;
+    margin: 0.6rem 0.5rem 0.6rem 0;
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+  .characters-minimum {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 0.9rem;
+    line-height: 2;
+    color: #002E33;
+  }
+  .rectangle-5155 {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/c0f2fde81ebc242c7eed2322d6b787f053be7ab0?Expires=1712267463&KeyName=fn12-cdn&Signature=nZpJLiQQqPzt3Db0doW8Bzl4TZs=');
+    position: absolute;
+    right: 0rem;
+    bottom: 0rem;
+    width: 31.8rem;
+    height: 58.8rem;
+  }
+  .container {
+    margin-right: 3.5rem;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .container-16 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .container-17 {
+    border-radius: 0.3rem;
+    border: 0.1rem solid #E5FCFF;
+    background: #E5FCFF;
+    position: relative;
+    padding: 0.7rem 0.8rem;
+    width: 15.2rem;
+    box-sizing: border-box;
+  }
+  .container-18 {
+    margin: 0 4.1rem 5.8rem 4.1rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-19 {
+    margin: 0 4.1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 23.3rem;
+    box-sizing: border-box;
+  }
+  .container-20 {
+    margin: 0 3.8rem 2.5rem 3.8rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .image-user-profile {
+    border-radius: 0.7rem;
+    background: rgba(0, 0, 0, 0.2);
+    margin-right: 1.2rem;
+    width: 1.4rem;
+    height: 1.4rem;
+  }
+  .url-bar {
+    border-radius: 0.9rem;
+    background: #F1F3F4;
+    position: relative;
+    margin-right: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0.4rem 0.8rem;
+    width: 76.6rem;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-favorite {
+    margin: 0.1rem 0 0.2rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-21 {
+    width: 0.8rem;
+    height: 0.7rem;
+  }
+  .url-text {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .subdomain {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 0.9rem;
+    letter-spacing: 0rem;
+    color: #696A6C;
+  }
+  .domain-com {
+    margin-right: 0rem;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 0.9rem;
+    letter-spacing: 0rem;
+    color: #202124;
+  }
+  .icon-secure {
+    margin: 0.2rem 0.8rem 0.2rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.5rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-22 {
+    width: 0.5rem;
+    height: 0.7rem;
+  }
+  .left-locked-icons {
+    margin: 0.5rem 0.9rem 0.5rem 0;
+    display: flex;
+    flex-direction: row;
+    width: 6.6rem;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-home {
+    margin-top: 0rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-23 {
+    width: 0.8rem;
+    height: 0.7rem;
+  }
+  .icon-refresh {
+    margin: 0 1.2rem 0rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.7rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-24 {
+    width: 0.7rem;
+    height: 0.7rem;
+  }
+  .icon-forward {
+    margin: 0 1.2rem 0rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-25 {
+    width: 0.8rem;
+    height: 0.7rem;
+  }
+  .icon-back {
+    margin: 0 1.2rem 0rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.7rem;
+    box-sizing: border-box;
+  }
+  .container-26 {
+    width: 0.8rem;
+    height: 0.7rem;
+  }
+  .right-locked-icons {
+    margin: 0.2rem 0;
+    display: flex;
+    flex-direction: row;
+    width: 2.8rem;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-more {
+    margin: 0.3rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.2rem;
+    height: 0.8rem;
+    box-sizing: border-box;
+  }
+  .container-27 {
+    width: 0.2rem;
+    height: 0.8rem;
+  }
+  .tab-plus {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .curve-r {
+    margin-top: 1.6rem;
+    width: 0.4rem;
+    height: 0.5rem;
+  }
+  .curve-l {
+    margin-top: 1.6rem;
+    width: 0.4rem;
+    height: 0.5rem;
+  }
+  .favicon-text-icons {
+    border-radius: 0.5rem 0.5rem 0 0;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 0.6rem 0.8rem 0.6rem 0.5rem;
+    box-sizing: border-box;
+  }
+  .icon-close {
+    margin: 0.3rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.5rem;
+    height: 0.5rem;
+    box-sizing: border-box;
+  }
+  .container-28 {
+    width: 0.5rem;
+    height: 0.5rem;
+  }
+  .tab-name {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 0.8rem;
+    letter-spacing: 0rem;
+    line-height: 1.333;
+    color: #FFFFFF;
+  }
+  .favicon {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/0c96ccfbda7bda53f39c1437cf5bb8dbdf5b6a60?Expires=1712267463&KeyName=fn12-cdn&Signature=tDFZEYTG-vrqtTHN6aWC7PNRWqw=') 50% / cover no-repeat;
+    margin-right: 0.6rem;
+    width: 1rem;
+    height: 1rem;
+  }
+  .frame-4 {
+    margin-right: 0.7rem;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .icon-plus {
+    margin: 0.6rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 0.8rem;
+    height: 0.8rem;
+    box-sizing: border-box;
+  }
+  .icon-new-tab {
+    width: 0.8rem;
+    height: 0.8rem;
+  }
+  .browser-controls {
+    margin: 0.5rem 0.6rem 0.9rem 0;
+    display: flex;
+    flex-direction: row;
+    width: 3.3rem;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .option-expand {
+    border-radius: 0.4rem;
+    background: #27CA40;
+    width: 0.8rem;
+    height: 0.8rem;
+  }
+  .option-minimize {
+    border-radius: 0.4rem;
+    background: #FFC130;
+    margin-right: 0.5rem;
+    width: 0.8rem;
+    height: 0.8rem;
+  }
+  .option-close {
+    border-radius: 0.4rem;
+    background: #FF6058;
+    margin-right: 0.5rem;
+    width: 0.8rem;
+    height: 0.8rem;
+  }
+  .container-29 {
+    border-radius: 0.3rem;
+    border: 0.1rem solid #E5FCFF;
+    background: #E5FCFF;
+    position: relative;
+    margin-right: 0.5rem;
+    padding: 0.7rem 0.8rem;
+    width: 8.8rem;
+    box-sizing: border-box;
+  }
+  .container-30 {
+    margin: 0 3.8rem 2.6rem 3.8rem;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }

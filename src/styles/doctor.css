@@ -1,0 +1,460 @@
+.doctor-confirmation {
+    background: #FBFEFE;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 72px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .are-you-a-ohospital-doctor {
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 57px;
+    letter-spacing: -0.3px;
+    line-height: 1.333;
+  }
+  .are-you-a-ohospital-doctor-sub21 {
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 57px;
+    letter-spacing: -0.3px;
+    line-height: 1.333;
+    color: #00CCE4;
+  }
+  .are-you-a-ohospital-doctor-sub22 {
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 57px;
+    letter-spacing: -0.3px;
+    line-height: 1.333;
+  }
+  .browser-url-controls {
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .toolbar-url-controls {
+    box-shadow: inset 0px -1px 0px 0px #DADCE0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 5px 20.3px 5px 14px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .toolbar-browser-controls {
+    border-radius: 8px 8px 0 0;
+    background: #DEE1E6;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 0 0 13px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .full-logo {
+    margin: 0 59px 80px 59px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ohospital-logo {
+    margin: 3px 8px 3px 0;
+    width: 34.1px;
+    height: 22px;
+  }
+  .ohospital {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #002E33;
+  }
+  .frame-8 {
+    margin: 0 63.9px 24px 63.9px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame {
+    margin: 5.9px 13.9px 5.9px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 16.3px;
+    height: 16.3px;
+    box-sizing: border-box;
+  }
+  .vector {
+    width: 16.3px;
+    height: 16.3px;
+  }
+  .no-i-am-an-external-doctor {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #002E33;
+  }
+  .frame-9 {
+    margin: 0 63.9px 16px 63.9px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1 {
+    margin: 5.9px 13.9px 5.9px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 16.3px;
+    height: 16.3px;
+    box-sizing: border-box;
+  }
+  .vector-2 {
+    width: 16.3px;
+    height: 16.3px;
+  }
+  .yes-i-am-internal-ohospital-doctor {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #002E33;
+  }
+  .cta {
+    border-radius: 8px;
+    background: #00CCE4;
+    margin: 0 64px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 10px 0.3px 10px 0;
+    width: 758px;
+    box-sizing: border-box;
+  }
+  .submit {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #FFFFFF;
+  }
+  .frame-1000003587 {
+    margin: 0 62px 113px 62px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .enter-your-id {
+    margin: 12px 14px 12px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.571;
+    color: #4C5B5D;
+  }
+  .group-1000002381 {
+    border-radius: 4px;
+    border: 2px solid #008999;
+    background: #E5FCFF;
+    position: relative;
+    padding: 11px 9.4px;
+    width: 250px;
+    box-sizing: border-box;
+  }
+  .oho-12 {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .quick-question-michael {
+    margin: 0 60px 10px 60px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.4;
+    color: #000000;
+  }
+  .quick-question-michael-sub1 {
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.333;
+    color: #002E33;
+  }
+  .container {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .image-user-profile {
+    border-radius: 11px;
+    background: rgba(0, 0, 0, 0.2);
+    margin-right: 19.7px;
+    width: 22px;
+    height: 22px;
+  }
+  .url-bar {
+    border-radius: 14px;
+    background: #F1F3F4;
+    position: relative;
+    margin-right: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 6px 12px 6px 13px;
+    width: 1225px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-favorite {
+    margin: 2px 0 2.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 11.5px;
+    box-sizing: border-box;
+  }
+  .container-3 {
+    width: 12px;
+    height: 11.5px;
+  }
+  .url-text {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .subdomain {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    color: #696A6C;
+  }
+  .domain-com {
+    margin-right: 0.4px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    color: #202124;
+  }
+  .icon-secure {
+    margin: 2.5px 12px 3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 10.5px;
+    box-sizing: border-box;
+  }
+  .container-4 {
+    width: 8px;
+    height: 10.5px;
+  }
+  .left-locked-icons {
+    margin: 8px 15px 8px 0;
+    display: flex;
+    flex-direction: row;
+    width: 105px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-home {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 12px;
+    box-sizing: border-box;
+  }
+  .container-5 {
+    width: 12px;
+    height: 12px;
+  }
+  .icon-refresh {
+    margin: 0 19px 0px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 12px;
+    box-sizing: border-box;
+  }
+  .container-6 {
+    width: 12px;
+    height: 12px;
+  }
+  .icon-forward {
+    margin: 0 19px 0.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 11.7px;
+    box-sizing: border-box;
+  }
+  .container-7 {
+    width: 12px;
+    height: 11.7px;
+  }
+  .icon-back {
+    margin: 0 19px 0.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 11.7px;
+    box-sizing: border-box;
+  }
+  .container-8 {
+    width: 12px;
+    height: 11.7px;
+  }
+  .right-locked-icons {
+    margin: 3px 0;
+    display: flex;
+    flex-direction: row;
+    width: 44.7px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-more {
+    margin: 5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 3px;
+    height: 12px;
+    box-sizing: border-box;
+  }
+  .container-9 {
+    width: 3px;
+    height: 12px;
+  }
+  .tab-plus {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .curve-r {
+    margin-top: 26px;
+    width: 6px;
+    height: 8px;
+  }
+  .curve-l {
+    margin-top: 26px;
+    width: 6px;
+    height: 8px;
+  }
+  .favicon-text-icons {
+    border-radius: 8px 8px 0 0;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 9px 13.3px 9px 8px;
+    box-sizing: border-box;
+  }
+  .icon-close {
+    margin: 4.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 7.5px;
+    height: 7.5px;
+    box-sizing: border-box;
+  }
+  .container-10 {
+    width: 7.5px;
+    height: 7.5px;
+  }
+  .tab-name {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 0.2px;
+    line-height: 1.333;
+    color: #FFFFFF;
+  }
+  .favicon {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/trialprojects/trial-5atDB3B2J61wtfva3fmFgo/assets/images/0c96ccfbda7bda53f39c1437cf5bb8dbdf5b6a60?Expires=1712266954&KeyName=fn12-cdn&Signature=Rtkft6Ep8__t-uTogouxgsV27Sk=') 50% / cover no-repeat;
+    margin-right: 9px;
+    width: 16px;
+    height: 16px;
+  }
+  .frame-4 {
+    margin-right: 11.3px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .icon-plus {
+    margin: 10.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 13.3px;
+    height: 13.3px;
+    box-sizing: border-box;
+  }
+  .icon-new-tab {
+    width: 13.3px;
+    height: 13.3px;
+  }
+  .browser-controls {
+    margin: 7.5px 9px 14.5px 0;
+    display: flex;
+    flex-direction: row;
+    width: 52px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .option-expand {
+    border-radius: 6px;
+    background: #27CA40;
+    width: 12px;
+    height: 12px;
+  }
+  .option-minimize {
+    border-radius: 6px;
+    background: #FFC130;
+    margin-right: 8px;
+    width: 12px;
+    height: 12px;
+  }
+  .option-close {
+    border-radius: 6px;
+    background: #FF6058;
+    margin-right: 8px;
+    width: 12px;
+    height: 12px;
+  }

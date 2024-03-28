@@ -1,0 +1,9572 @@
+.container {
+    position: absolute;
+    right: 0px;
+    bottom: 43px;
+    width: 39.5px;
+    height: 39.6px;
+  }
+  .welcome {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/9010500f1d0674755026257cb6cac91892db115f?Expires=1712270722&KeyName=fn12-cdn&Signature=Gk-3PQ28CVtXlzLgunCB_FHxgxA=') 50% / cover no-repeat, linear-gradient(#FFFFFF, #FFFFFF);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 41.5px 0 49px 0;
+    box-sizing: border-box;
+  }
+  .full-logo {
+    position: relative;
+    margin: 0 0 46.5px 0.4px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ohospital-logo {
+    position: relative;
+    margin: 2.2px 6px 2.2px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 9.1px;
+    width: 25.6px;
+    height: 16.5px;
+    box-sizing: border-box;
+  }
+  .ellipse-1 {
+    border-radius: 8.3px;
+    background: #00CCE4;
+    position: relative;
+    width: 16.5px;
+    height: 16.5px;
+  }
+  .ellipse-4 {
+    border-radius: 8.3px;
+    background: #00CCE4;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 16.5px;
+    height: 16.5px;
+  }
+  .ellipse-3 {
+    position: relative;
+    width: 4.8px;
+    height: 13.8px;
+  }
+  .ohospital {
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.4;
+    color: #002E33;
+  }
+  .together-we-make-better-healthcare-possible {
+    position: absolute;
+    left: 50%;
+    top: 56px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 2.333;
+    color: #4C5B5D;
+  }
+  .frame-1 {
+    border-radius: 8px;
+    background: #0084E4;
+    margin: 0 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px 0.7px 10px 0;
+    width: calc(100% - 48px);
+    box-sizing: border-box;
+  }
+  .get-started-with-ohospital {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    line-height: 1.5;
+    color: #FFFFFF;
+  }
+  .rectangle-7 {
+    background: linear-gradient(148.09deg, #D6F8FC 9.1%, #B7E9FF 80.8%);
+    position: relative;
+    margin-bottom: 45px;
+    width: 391px;
+    height: 214px;
+  }
+  .welcome-to-ohospital-your-virtual-healthcare-companion-manage-records-chat-securely-with-your-doctor-and-access-info-on-the-go-were-here-to-support-you {
+    margin: 0 36.2px 24px 37.2px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Franklin Gothic Book', 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #4C5B5D;
+  }
+  .get-started-with-ohospital-1 {
+    margin: 0 0 15px 0px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 19px;
+    letter-spacing: -0.4px;
+    line-height: 1.263;
+    color: #00171A;
+  }
+  .efficient-appointment-management-schedule-manage-and-stay-informed-about-your-appointments-effortlessly {
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1.333;
+    color: #4C5B5D;
+  }
+  .consult-your-doctor-consult-a-doctor-virtually-for-free-at-comfort-of-your-home {
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1.333;
+    color: #4C5B5D;
+  }
+  .medical-travel-access-doctors-from-all-over-the-world-at-the-comfort-of-your-home {
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1.333;
+    color: #4C5B5D;
+  }
+  .lab-tests-simplified-access-your-diagnostic-results-and-doctors-notes-directly-in-our-app-skipping-the-need-for-frequent-lab-visits {
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1.333;
+    color: #4C5B5D;
+  }
+  .health-financing-with-ohospital-medkit-funding-your-healthcare-is-a-breeze-simplify-the-process-for-you-and-your-family {
+    font-family: 'Karla';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: -0.3px;
+    line-height: 1.333;
+    color: #4C5B5D;
+  }
+  .medicinepana {
+    position: absolute;
+    left: 27px;
+    top: 122.3px;
+    right: 26px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 0 30.4px 9.7px 24.3px;
+    box-sizing: border-box;
+  }
+  .background-complete {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    height: fit-content;
+    flex-grow: 1;
+    box-sizing: border-box;
+  }
+  .vector-14 {
+    margin-bottom: 15.1px;
+    width: 79.8px;
+    height: 27.1px;
+  }
+  .vector-27 {
+    margin: 68.6px 7.1px 67.4px 0;
+    width: 2.5px;
+    height: 12.1px;
+  }
+  .vector-34 {
+    margin: 94.5px 0 43.9px 0;
+    width: 0.9px;
+    height: 9.7px;
+  }
+  .vector-68 {
+    position: absolute;
+    left: 125px;
+    bottom: 22.3px;
+    width: 15.8px;
+    height: 0.4px;
+  }
+  .vector-70 {
+    position: absolute;
+    left: 132.6px;
+    bottom: 13.7px;
+    width: 0.3px;
+    height: 7.3px;
+  }
+  .vector-71 {
+    position: absolute;
+    left: 135.6px;
+    bottom: 7px;
+    width: 0.3px;
+    height: 11.6px;
+  }
+  .group {
+    opacity: 0.5;
+    position: absolute;
+    left: 37.8px;
+    bottom: 20.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 74px;
+    height: 85px;
+    box-sizing: border-box;
+  }
+  .vector-81 {
+    width: 74px;
+    height: 85px;
+  }
+  .vector-91 {
+    margin: 14.6px 0 24.9px 0;
+    width: 3.6px;
+    height: 0.8px;
+  }
+  .vector-96 {
+    position: absolute;
+    left: 20.6px;
+    bottom: 86.8px;
+    width: 10.2px;
+    height: 3.7px;
+  }
+  .vector-106 {
+    margin: 0 0.7px 0 1.9px;
+    width: 2.6px;
+    height: 2.5px;
+  }
+  .vector-107 {
+    margin-bottom: 1.7px;
+    width: 5.2px;
+    height: 1.5px;
+  }
+  .vector-108 {
+    margin: 0 1.4px 0 1.2px;
+    width: 2.6px;
+    height: 2.5px;
+  }
+  .vector-109 {
+    margin-bottom: 1.7px;
+    width: 5.2px;
+    height: 1.4px;
+  }
+  .vector-110 {
+    margin: 0.2px 4.4px 0 0;
+    width: 4.1px;
+    height: 11.8px;
+  }
+  .vector-111 {
+    margin: 0 0px 6px 9.7px;
+    width: 13.8px;
+    height: 6.5px;
+  }
+  .vector-115 {
+    margin: 0 16.7px 2.5px 2px;
+    width: 4.8px;
+    height: 1.6px;
+  }
+  .group-119 {
+    opacity: 0.3;
+    position: relative;
+    margin: 0 20.7px 12.4px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 55.4px;
+    height: 27.8px;
+    box-sizing: border-box;
+  }
+  .vector-120 {
+    width: 55.4px;
+    height: 27.8px;
+  }
+  .vector-121 {
+    margin: 0 6.1px 0 2.1px;
+    width: 14.1px;
+    height: 2.3px;
+  }
+  .vector-122 {
+    position: absolute;
+    right: 62.5px;
+    bottom: 47.8px;
+    width: 23.5px;
+    height: 9px;
+  }
+  .group-123 {
+    opacity: 0.3;
+    position: absolute;
+    right: 62.5px;
+    bottom: 47.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 23.5px;
+    height: 9px;
+    box-sizing: border-box;
+  }
+  .vector-124 {
+    width: 23.5px;
+    height: 9px;
+  }
+  .vector-127 {
+    position: absolute;
+    right: 135.5px;
+    bottom: 45px;
+    width: 8px;
+    height: 45.5px;
+  }
+  .vector-137 {
+    margin: 0 6.3px 4.7px 1.4px;
+    width: 14.5px;
+    height: 34.1px;
+  }
+  .desk {
+    position: absolute;
+    left: 50%;
+    bottom: 0.3px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 337px;
+    height: 0.3px;
+    box-sizing: border-box;
+  }
+  .vector-143 {
+    width: 337px;
+    height: 0.3px;
+  }
+  .plant {
+    position: relative;
+    margin-top: 10.2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 28.9px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .vector-144 {
+    position: relative;
+    margin-bottom: 2px;
+    width: 8.2px;
+    height: 17px;
+  }
+  .group-145 {
+    opacity: 0.2;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8.2px;
+    height: 17px;
+    box-sizing: border-box;
+  }
+  .vector-146 {
+    width: 8.2px;
+    height: 17px;
+  }
+  .vector-147 {
+    margin-left: 17.5px;
+    width: 11.4px;
+    height: 7.2px;
+  }
+  .speech-bubble {
+    position: absolute;
+    top: 12px;
+    right: 19.6px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .medical-researchpana {
+    position: relative;
+    margin: 0 11.3px 19.7px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 0 0.1px 0px;
+    width: 278.5px;
+    box-sizing: border-box;
+  }
+  .background-complete-162 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 271.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .vector-170 {
+    position: absolute;
+    left: 0px;
+    bottom: 0.6px;
+    width: 4.6px;
+    height: 0.2px;
+  }
+  .vector-174 {
+    position: absolute;
+    right: 2.7px;
+    bottom: 0px;
+    width: 0px;
+    height: 14.2px;
+  }
+  .vector-175 {
+    position: absolute;
+    right: 2.5px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 14.2px;
+  }
+  .vector-179 {
+    margin: 0 8.1px 0px 8.1px;
+    align-self: flex-start;
+    width: 12.5px;
+    height: 2px;
+  }
+  .vector-181 {
+    margin: 9.1px 0.5px 16.6px 0;
+    width: 6.8px;
+    height: 6.9px;
+  }
+  .vector-185 {
+    margin-left: 1.1px;
+    width: 46.4px;
+    height: 1.8px;
+  }
+  .vector-188 {
+    position: absolute;
+    right: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-189 {
+    position: absolute;
+    right: 4.6px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-190 {
+    position: absolute;
+    left: 4px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-192 {
+    position: absolute;
+    left: 0.5px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-193 {
+    margin: 0 9.6px 7px 0;
+    width: 21px;
+    height: 21px;
+  }
+  .vector-194 {
+    margin: 0 7px 7.1px 7.2px;
+    width: 16.3px;
+    height: 16.3px;
+  }
+  .vector-209 {
+    margin: 0 3.9px 9px 0;
+    width: 3.5px;
+    height: 8.1px;
+  }
+  .vector-216 {
+    position: absolute;
+    left: 0.6px;
+    top: 0.2px;
+    width: 0.8px;
+    height: 6.9px;
+  }
+  .vector-217 {
+    position: absolute;
+    left: 1.4px;
+    top: 0.3px;
+    width: 0.8px;
+    height: 6.9px;
+  }
+  .vector-222 {
+    position: absolute;
+    top: 0.7px;
+    right: 0.6px;
+    width: 0.8px;
+    height: 6.9px;
+  }
+  .vector-228 {
+    margin-bottom: 21.4px;
+    align-self: flex-start;
+    width: 8.3px;
+    height: 11.2px;
+  }
+  .vector-229 {
+    margin: 0 3.1px 1px 3.1px;
+    align-self: flex-start;
+    width: 2.2px;
+    height: 2.1px;
+  }
+  .table {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 278.5px;
+    height: 0.2px;
+    box-sizing: border-box;
+  }
+  .vector-230 {
+    width: 278.5px;
+    height: 0.2px;
+  }
+  .speech-bubble-2 {
+    margin-bottom: 11.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 43.4px;
+    height: 41.3px;
+    box-sizing: border-box;
+  }
+  .speech-bubble-1 {
+    margin-left: 0.1px;
+    display: flex;
+    flex-direction: column;
+    width: 30.4px;
+    box-sizing: border-box;
+  }
+  .vector-256 {
+    margin: 0 0 1px 17.7px;
+    width: 12.7px;
+    height: 0.2px;
+  }
+  .vector-257 {
+    margin: 0 0.8px 21.7px 17.5px;
+    width: 12.1px;
+    height: 0.2px;
+  }
+  .vector-261 {
+    margin: 0 17.6px 1.1px 0px;
+    width: 12.7px;
+    height: 0.2px;
+  }
+  .vector-263 {
+    align-self: flex-start;
+    width: 6.7px;
+    height: 0.2px;
+  }
+  .vector-292 {
+    position: absolute;
+    right: 65.4px;
+    bottom: 41.7px;
+    width: 0.3px;
+    height: 15.2px;
+  }
+  .vector-293 {
+    position: absolute;
+    right: 65.4px;
+    bottom: 41.7px;
+    width: 0.4px;
+    height: 15.3px;
+  }
+  .vector-294 {
+    margin: 0 10.4px 23.4px 0.6px;
+    width: 2.3px;
+    height: 2.3px;
+  }
+  .vector-306 {
+    margin: 0 0.2px 0.9px 2px;
+    width: 1.8px;
+    height: 1px;
+  }
+  .vector-307 {
+    width: 4px;
+    height: 1.9px;
+  }
+  .vector-308 {
+    margin: 0 0 0.3px 70px;
+    align-self: center;
+    width: 2.7px;
+    height: 1.9px;
+  }
+  .group-309 {
+    opacity: 0.3;
+    position: absolute;
+    right: 48.6px;
+    bottom: 13.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 17.4px;
+    height: 11.2px;
+    box-sizing: border-box;
+  }
+  .vector-310 {
+    width: 17.4px;
+    height: 11.2px;
+  }
+  .vector-315 {
+    position: absolute;
+    right: 76.3px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-316 {
+    position: absolute;
+    right: 75.4px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-317 {
+    position: absolute;
+    right: 74.5px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-318 {
+    position: absolute;
+    right: 73.6px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-319 {
+    position: absolute;
+    right: 72.7px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-320 {
+    position: absolute;
+    right: 71.8px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-321 {
+    margin: 137.7px 0px 18.7px 0;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-330 {
+    position: absolute;
+    right: 83px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-331 {
+    position: absolute;
+    right: 82.1px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-332 {
+    position: absolute;
+    right: 81.2px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-333 {
+    position: absolute;
+    right: 80.3px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-334 {
+    position: absolute;
+    right: 79.4px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-341 {
+    position: absolute;
+    right: 93.2px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-342 {
+    position: absolute;
+    right: 92.3px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-343 {
+    position: absolute;
+    right: 91.4px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-344 {
+    position: absolute;
+    right: 90.5px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-345 {
+    position: absolute;
+    right: 89.6px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-346 {
+    position: absolute;
+    right: 88.7px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-347 {
+    position: absolute;
+    right: 87.8px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-354 {
+    position: absolute;
+    right: 101.6px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-355 {
+    position: absolute;
+    right: 100.7px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-356 {
+    position: absolute;
+    right: 99.8px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-358 {
+    position: absolute;
+    right: 98px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-359 {
+    position: absolute;
+    right: 97.1px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-360 {
+    position: absolute;
+    right: 96.2px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-367 {
+    position: absolute;
+    right: 110px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-368 {
+    position: absolute;
+    right: 109.1px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-369 {
+    position: absolute;
+    right: 108.2px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-370 {
+    position: absolute;
+    right: 107.3px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-371 {
+    position: absolute;
+    right: 106.4px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-372 {
+    position: absolute;
+    right: 105.5px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .vector-373 {
+    position: absolute;
+    right: 104.6px;
+    bottom: 18.7px;
+    width: 0.2px;
+    height: 3.9px;
+  }
+  .group-382 {
+    opacity: 0.3;
+    position: absolute;
+    right: 70.2px;
+    bottom: 22.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18.6px;
+    height: 15px;
+    box-sizing: border-box;
+  }
+  .vector-383 {
+    width: 18.6px;
+    height: 15px;
+  }
+  .group-399 {
+    opacity: 0.3;
+    position: absolute;
+    right: 15px;
+    bottom: 0.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 33.8px;
+    height: 9.4px;
+    box-sizing: border-box;
+  }
+  .vector-400 {
+    width: 33.8px;
+    height: 9.4px;
+  }
+  .group-405 {
+    opacity: 0.3;
+    position: absolute;
+    right: 13.4px;
+    bottom: 13.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 9.5px;
+    height: 9.6px;
+    box-sizing: border-box;
+  }
+  .vector-406 {
+    width: 9.5px;
+    height: 9.6px;
+  }
+  .vector-413 {
+    margin: 0 1.3px 7.8px 1.5px;
+    width: 2.7px;
+    height: 2.6px;
+  }
+  .vector-414 {
+    margin: 0 0.1px 2.2px 0;
+    width: 5.3px;
+    height: 1.9px;
+  }
+  .vector-415 {
+    margin: 61.5px 2.3px 8.3px 0;
+    width: 3.9px;
+    height: 12.6px;
+  }
+  .vector-427 {
+    margin-right: 11.2px;
+    width: 6px;
+    height: 8.8px;
+  }
+  .vector-437 {
+    margin-bottom: 23.7px;
+    align-self: flex-start;
+    width: 12.5px;
+    height: 4.7px;
+  }
+  .online-calendarpana {
+    position: relative;
+    margin: 0 7px 16.9px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 5.3px;
+    width: 272.7px;
+    box-sizing: border-box;
+  }
+  .background-complete-473 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 272.7px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .vector-481 {
+    margin: 0 4.2px;
+    align-self: flex-start;
+    width: 19.4px;
+    height: 4.5px;
+  }
+  .vector-483 {
+    position: absolute;
+    right: 0.1px;
+    bottom: 0px;
+    width: 17.5px;
+    height: 2.2px;
+  }
+  .vector-485 {
+    margin: 0 5.8px;
+    align-self: flex-start;
+    width: 16.3px;
+    height: 0.2px;
+  }
+  .vector-486 {
+    position: relative;
+    width: 17.7px;
+    height: 0.2px;
+  }
+  .vector-513 {
+    width: 2.3px;
+    height: 101.4px;
+  }
+  .device {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 110.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .vector-612 {
+    margin-right: 0.5px;
+    width: 0.2px;
+    height: 108.6px;
+  }
+  .vector-613 {
+    margin-bottom: 10.9px;
+    width: 48.1px;
+    height: 0.2px;
+  }
+  .vector-614 {
+    margin: 18.8px 24.1px 89.5px 0;
+    width: 37.5px;
+    height: 0.2px;
+  }
+  .vector-627 {
+    margin: 0 13.6px 5px 13.6px;
+    width: 20.9px;
+    height: 0.2px;
+  }
+  .vector-628 {
+    margin: 0 2.7px 0.3px 2.7px;
+    align-self: flex-start;
+    width: 5px;
+    height: 0.2px;
+  }
+  .vector-631 {
+    margin: 0 15.2px 24.3px 15.2px;
+    align-self: flex-start;
+    width: 7.7px;
+    height: 0.2px;
+  }
+  .vector-636 {
+    margin: 0 2.7px 0.3px 2.7px;
+    align-self: flex-start;
+    width: 5px;
+    height: 0.2px;
+  }
+  .vector-638 {
+    margin: 0 15px 1.4px 15px;
+    align-self: flex-start;
+    width: 12.1px;
+    height: 0.2px;
+  }
+  .vector-639 {
+    margin: 0 15.2px 16.6px 15.2px;
+    align-self: flex-start;
+    width: 7.7px;
+    height: 0.2px;
+  }
+  .vector-644 {
+    margin: 0 2.7px 0.3px 2.7px;
+    align-self: flex-start;
+    width: 5px;
+    height: 0.2px;
+  }
+  .vector-647 {
+    margin: 0 15.2px 13.8px 15.2px;
+    align-self: flex-start;
+    width: 7.7px;
+    height: 0.2px;
+  }
+  .vector-649 {
+    margin: 0 6.4px 2.4px 15.9px;
+    width: 25.8px;
+    height: 0.2px;
+  }
+  .vector-650 {
+    margin: 0 15.9px;
+    align-self: flex-start;
+    width: 10.7px;
+    height: 0.2px;
+  }
+  .vector-651 {
+    margin: 0 6.4px 2.7px 15.9px;
+    width: 25.8px;
+    height: 0.2px;
+  }
+  .vector-656 {
+    position: absolute;
+    right: 29px;
+    bottom: 24.5px;
+    width: 2.3px;
+    height: 0.8px;
+  }
+  .vector-657 {
+    position: absolute;
+    right: 28.2px;
+    bottom: 29.8px;
+    width: 2.3px;
+    height: 1.1px;
+  }
+  .vector-658 {
+    position: absolute;
+    right: 28.6px;
+    bottom: 36px;
+    width: 1.8px;
+    height: 0.3px;
+  }
+  .vector-660 {
+    position: absolute;
+    right: 37.2px;
+    bottom: 36.1px;
+    width: 1.8px;
+    height: 0.3px;
+  }
+  .vector-661 {
+    position: absolute;
+    right: 38.7px;
+    bottom: 29.9px;
+    width: 1.8px;
+    height: 0.7px;
+  }
+  .vector-662 {
+    position: absolute;
+    right: 38.9px;
+    bottom: 24.3px;
+    width: 1.6px;
+    height: 0.4px;
+  }
+  .vector-663 {
+    position: absolute;
+    right: 39.6px;
+    bottom: 15.6px;
+    width: 1.7px;
+    height: 0.4px;
+  }
+  .vector-664 {
+    position: absolute;
+    right: 40.1px;
+    bottom: 10.4px;
+    width: 1.5px;
+    height: 0.8px;
+  }
+  .vector-670 {
+    position: absolute;
+    right: 33.2px;
+    bottom: 34.2px;
+    width: 1px;
+    height: 1.7px;
+  }
+  .vector-671 {
+    position: absolute;
+    right: 31.6px;
+    bottom: 39.7px;
+    width: 0.9px;
+    height: 1.7px;
+  }
+  .vector-672 {
+    position: absolute;
+    right: 29.8px;
+    bottom: 38.3px;
+    width: 1.2px;
+    height: 0.6px;
+  }
+  .vector-673 {
+    position: absolute;
+    right: 29.7px;
+    bottom: 19.2px;
+    width: 2.3px;
+    height: 1px;
+  }
+  .vector-674 {
+    position: absolute;
+    right: 30.5px;
+    bottom: 14.6px;
+    width: 1.7px;
+    height: 0.4px;
+  }
+  .vector-675 {
+    position: absolute;
+    right: 31.4px;
+    bottom: 7.8px;
+    width: 1.6px;
+    height: 2px;
+  }
+  .vector-676 {
+    position: absolute;
+    right: 40.2px;
+    bottom: 4.5px;
+    width: 1.3px;
+    height: 1.1px;
+  }
+  .vector-683 {
+    position: absolute;
+    right: 61px;
+    bottom: 26.4px;
+    width: 2.1px;
+    height: 0.3px;
+  }
+  .vector-685 {
+    position: absolute;
+    right: 58.4px;
+    bottom: 32.5px;
+    width: 0.2px;
+    height: 1.3px;
+  }
+  .vector-691 {
+    position: absolute;
+    right: 58.9px;
+    bottom: 17.8px;
+    width: 1.7px;
+    height: 0.5px;
+  }
+  .vector-693 {
+    position: absolute;
+    right: 56.5px;
+    bottom: 8.4px;
+    width: 1.5px;
+    height: 0.4px;
+  }
+  .vector-699 {
+    position: absolute;
+    right: 53.3px;
+    bottom: 12.4px;
+    width: 1px;
+    height: 0.7px;
+  }
+  .vector-701 {
+    position: absolute;
+    right: 42.8px;
+    bottom: 18px;
+    width: 1.7px;
+    height: 0.3px;
+  }
+  .vector-702 {
+    position: absolute;
+    right: 48.7px;
+    bottom: 17px;
+    width: 1.6px;
+    height: 0.3px;
+  }
+  .vector-704 {
+    position: absolute;
+    right: 42.3px;
+    bottom: 14px;
+    width: 1.5px;
+    height: 1px;
+  }
+  .vector-707 {
+    position: absolute;
+    right: 23.9px;
+    bottom: 1.4px;
+    width: 32px;
+    height: 0.2px;
+  }
+  .vector-708 {
+    position: absolute;
+    right: 45.4px;
+    bottom: 17.1px;
+    width: 0.8px;
+    height: 1.3px;
+  }
+  .vector-709 {
+    position: absolute;
+    right: 44.9px;
+    bottom: 12.6px;
+    width: 0.6px;
+    height: 1.6px;
+  }
+  .vector-710 {
+    position: absolute;
+    right: 43.9px;
+    bottom: 7.8px;
+    width: 0.9px;
+    height: 1.8px;
+  }
+  .vector-711 {
+    position: absolute;
+    right: 46.2px;
+    bottom: 4px;
+    width: 1px;
+    height: 1.2px;
+  }
+  .vector-712 {
+    position: absolute;
+    right: 47.9px;
+    bottom: 10.9px;
+    width: 1.3px;
+    height: 0.3px;
+  }
+  .floor {
+    position: absolute;
+    left: 5.8px;
+    bottom: 5.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 258.1px;
+    height: 0.2px;
+    box-sizing: border-box;
+  }
+  .vector-713 {
+    width: 258.1px;
+    height: 0.2px;
+  }
+  .group-728 {
+    opacity: 0.3;
+    position: absolute;
+    right: 17.2px;
+    bottom: 24.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 26.9px;
+    height: 12.6px;
+    box-sizing: border-box;
+  }
+  .vector-729 {
+    width: 26.9px;
+    height: 12.6px;
+  }
+  .vector-733 {
+    position: absolute;
+    left: 59px;
+    bottom: 48.9px;
+    width: 4.7px;
+    height: 0.2px;
+  }
+  .group-740 {
+    opacity: 0.3;
+    position: absolute;
+    left: 33.9px;
+    bottom: 40.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 2.8px;
+    height: 13.3px;
+    box-sizing: border-box;
+  }
+  .vector-741 {
+    width: 2.8px;
+    height: 13.3px;
+  }
+  .vector-745 {
+    position: absolute;
+    left: 92.9px;
+    bottom: 2.6px;
+    width: 0.4px;
+    height: 3.1px;
+  }
+  .group-750 {
+    opacity: 0.4;
+    position: absolute;
+    left: 83.2px;
+    bottom: 1.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 4.6px;
+    height: 6.6px;
+    box-sizing: border-box;
+  }
+  .vector-751 {
+    width: 4.6px;
+    height: 6.6px;
+  }
+  .group-760 {
+    opacity: 0.4;
+    position: absolute;
+    left: 53.9px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24.5px;
+    height: 10.3px;
+    box-sizing: border-box;
+  }
+  .vector-761 {
+    width: 24.5px;
+    height: 10.3px;
+  }
+  .vector-772 {
+    position: absolute;
+    left: 50.8px;
+    top: 50%;
+    translate: 0 -50%;
+    width: 3.1px;
+    height: 0.9px;
+  }
+  .vector-792 {
+    position: absolute;
+    left: 48px;
+    top: 50%;
+    translate: 0 -50%;
+    width: 1.9px;
+    height: 0.5px;
+  }
+  .vector-795 {
+    position: absolute;
+    left: 42.4px;
+    top: 50%;
+    translate: 0 -50%;
+    width: 0.6px;
+    height: 0.4px;
+  }
+  .saving-moneypana {
+    position: relative;
+    margin: 0 0 32.7px 2.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 1.9px;
+    width: 248.9px;
+    box-sizing: border-box;
+  }
+  .background-complete-798 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 0.6px;
+    width: 248.9px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .vector-800 {
+    position: absolute;
+    left: 4.3px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-801 {
+    position: absolute;
+    left: 3px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-802 {
+    position: absolute;
+    left: 7.2px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-804 {
+    position: absolute;
+    left: 10.1px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-806 {
+    position: absolute;
+    left: 13px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-807 {
+    position: absolute;
+    left: 11.7px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-809 {
+    position: absolute;
+    left: 14.6px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-811 {
+    position: absolute;
+    left: 17.5px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-812 {
+    position: absolute;
+    left: 21.7px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-813 {
+    position: absolute;
+    left: 20.4px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-814 {
+    position: absolute;
+    left: 50%;
+    top: 3.4px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-815 {
+    position: absolute;
+    left: 23.3px;
+    top: 3.4px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-816 {
+    position: absolute;
+    left: 1.8px;
+    top: 3.2px;
+    width: 24.4px;
+    height: 0.2px;
+  }
+  .vector-818 {
+    position: absolute;
+    left: 2.4px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-819 {
+    position: absolute;
+    left: 1.1px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-820 {
+    position: absolute;
+    left: 5.3px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-821 {
+    position: absolute;
+    left: 4px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-822 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-824 {
+    position: absolute;
+    left: 11.1px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-826 {
+    position: absolute;
+    left: 14px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-827 {
+    position: absolute;
+    left: 12.7px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-829 {
+    position: absolute;
+    left: 15.6px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-831 {
+    position: absolute;
+    left: 18.5px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.2px;
+  }
+  .vector-832 {
+    position: absolute;
+    left: 22.7px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-833 {
+    position: absolute;
+    left: 21.4px;
+    bottom: 5.3px;
+    width: 0.2px;
+    height: 5.2px;
+  }
+  .vector-834 {
+    position: absolute;
+    left: 0px;
+    top: 8.3px;
+    width: 24.3px;
+    height: 0.2px;
+  }
+  .vector-837 {
+    position: absolute;
+    left: 3.5px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-838 {
+    position: absolute;
+    left: 7.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-839 {
+    position: absolute;
+    left: 6.4px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-840 {
+    position: absolute;
+    left: 10.6px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-841 {
+    position: absolute;
+    left: 9.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-842 {
+    position: absolute;
+    left: 13.5px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-843 {
+    position: absolute;
+    left: 12.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-844 {
+    position: absolute;
+    left: 16.4px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-845 {
+    position: absolute;
+    left: 15.1px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-846 {
+    position: absolute;
+    left: 19.4px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-847 {
+    position: absolute;
+    left: 18px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-848 {
+    position: absolute;
+    left: 22.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-850 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 5.1px;
+  }
+  .vector-853 {
+    position: absolute;
+    left: 2.6px;
+    top: 4.5px;
+    width: 0.2px;
+    height: 2.7px;
+  }
+  .vector-854 {
+    position: absolute;
+    left: 0.4px;
+    bottom: 6.8px;
+    width: 0.2px;
+    height: 2.4px;
+  }
+  .vector-856 {
+    position: absolute;
+    left: 1.6px;
+    bottom: 5.8px;
+    width: 19.7px;
+    height: 0.2px;
+  }
+  .vector-862 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-863 {
+    position: absolute;
+    left: 1.1px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-864 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-865 {
+    position: absolute;
+    left: 4.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-866 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-867 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-869 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-870 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-871 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-873 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-874 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-875 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-877 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-881 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-882 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-885 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-886 {
+    position: absolute;
+    left: 13.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-889 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-890 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-892 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-893 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-894 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-896 {
+    margin: 0 2.3px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-899 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-900 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-901 {
+    position: absolute;
+    left: 4.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-903 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-904 {
+    position: absolute;
+    left: 13.4px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-907 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-908 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-911 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-912 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-914 {
+    margin-left: 1.2px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-915 {
+    position: absolute;
+    left: 0.7px;
+    top: 1.5px;
+    width: 0.2px;
+    height: 3.3px;
+  }
+  .vector-916 {
+    position: absolute;
+    left: 0.3px;
+    top: 1.6px;
+    width: 0.2px;
+    height: 2.9px;
+  }
+  .vector-917 {
+    position: absolute;
+    left: 0.3px;
+    bottom: 0.3px;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-918 {
+    position: absolute;
+    left: 1.8px;
+    bottom: 0.6px;
+    width: 23.9px;
+    height: 0.2px;
+  }
+  .vector-920 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-921 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-922 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-923 {
+    position: absolute;
+    left: 4.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-924 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-925 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-926 {
+    position: absolute;
+    left: 13.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-927 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-928 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-929 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-930 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-931 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-932 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-933 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-935 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-936 {
+    margin-right: 2.2px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-938 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-939 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-940 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-941 {
+    position: absolute;
+    left: 4.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-942 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-943 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-945 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-946 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-947 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-949 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-950 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-951 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-953 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-956 {
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-958 {
+    position: absolute;
+    top: 0px;
+    right: 20.5px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-959 {
+    position: absolute;
+    top: 0px;
+    right: 22.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-960 {
+    position: absolute;
+    top: 0px;
+    right: 17px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-961 {
+    position: absolute;
+    top: 0px;
+    right: 18.6px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-962 {
+    position: absolute;
+    top: 0px;
+    right: 13.5px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-963 {
+    position: absolute;
+    top: 0px;
+    right: 15.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-964 {
+    position: relative;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-965 {
+    position: absolute;
+    top: 0px;
+    right: 11.6px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-966 {
+    position: absolute;
+    top: 0px;
+    right: 6.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-967 {
+    position: absolute;
+    top: 0px;
+    right: 8px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-968 {
+    position: absolute;
+    top: 0px;
+    right: 2.9px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-969 {
+    position: absolute;
+    top: 0px;
+    right: 4.5px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-970 {
+    position: absolute;
+    left: 0.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-971 {
+    position: absolute;
+    top: 0px;
+    right: 1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-972 {
+    margin-right: 1.3px;
+    width: 29.6px;
+    height: 0.3px;
+  }
+  .vector-974 {
+    position: absolute;
+    left: 50%;
+    top: 6.2px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-975 {
+    position: absolute;
+    left: 50%;
+    top: 6.2px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-976 {
+    position: absolute;
+    top: 6.2px;
+    right: 22.8px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-977 {
+    position: absolute;
+    left: 50%;
+    top: 6.2px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-978 {
+    position: absolute;
+    top: 6.2px;
+    right: 19.3px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-979 {
+    position: absolute;
+    top: 6.2px;
+    right: 20.9px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-980 {
+    position: absolute;
+    top: 6.2px;
+    right: 15.8px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-981 {
+    position: absolute;
+    top: 6.2px;
+    right: 17.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-982 {
+    position: absolute;
+    top: 6.2px;
+    right: 12.2px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-983 {
+    position: absolute;
+    top: 6.2px;
+    right: 13.9px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-984 {
+    position: absolute;
+    top: 6.2px;
+    right: 8.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-985 {
+    position: absolute;
+    top: 6.2px;
+    right: 10.3px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-986 {
+    position: absolute;
+    top: 6.2px;
+    right: 5.2px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-987 {
+    position: absolute;
+    top: 6.2px;
+    right: 6.8px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-989 {
+    position: absolute;
+    top: 6.2px;
+    right: 3.3px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-990 {
+    position: absolute;
+    top: 6px;
+    right: 0px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-992 {
+    position: absolute;
+    left: 50%;
+    bottom: 0.1px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-993 {
+    position: absolute;
+    left: 50%;
+    bottom: 0.1px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-994 {
+    position: absolute;
+    right: 19.9px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-995 {
+    position: absolute;
+    right: 21.5px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-996 {
+    position: absolute;
+    right: 16.4px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-997 {
+    position: absolute;
+    right: 18px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-998 {
+    position: absolute;
+    right: 12.8px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-999 {
+    position: absolute;
+    right: 14.4px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1000 {
+    position: absolute;
+    right: 9.3px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1001 {
+    position: absolute;
+    right: 10.9px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1002 {
+    position: absolute;
+    right: 5.8px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1003 {
+    position: absolute;
+    right: 7.4px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1004 {
+    position: absolute;
+    right: 2.3px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1005 {
+    position: absolute;
+    right: 3.9px;
+    bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1007 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1011 {
+    position: absolute;
+    left: 50%;
+    top: 1.4px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 3.3px;
+  }
+  .vector-1013 {
+    position: absolute;
+    left: 1.6px;
+    top: 0.4px;
+    width: 9.7px;
+    height: 0.3px;
+  }
+  .vector-1014 {
+    position: absolute;
+    left: 2.7px;
+    top: 0.7px;
+    width: 9.8px;
+    height: 0.3px;
+  }
+  .vector-1015 {
+    position: absolute;
+    top: 0.8px;
+    right: 12.2px;
+    width: 3.2px;
+    height: 0.3px;
+  }
+  .vector-1016 {
+    position: absolute;
+    left: 50%;
+    bottom: 0.3px;
+    translate: -50% 0;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-1017 {
+    position: absolute;
+    right: 3.7px;
+    bottom: 7px;
+    width: 23.9px;
+    height: 0.2px;
+  }
+  .vector-1020 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1021 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1024 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1025 {
+    position: absolute;
+    left: 13.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1027 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1028 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1029 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1031 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1032 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1033 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1034 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1035 {
+    margin: 0 9.9px 0 1.9px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1038 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1039 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1041 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1042 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1043 {
+    position: absolute;
+    left: 13.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1045 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1046 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1047 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1048 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1049 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1050 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1051 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1052 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1053 {
+    margin-right: 11.8px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1055 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1058 {
+    position: absolute;
+    left: 4.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1059 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1062 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1063 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1065 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1066 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1067 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1069 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1070 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1073 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1074 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1075 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1076 {
+    position: absolute;
+    left: 4.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1077 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1078 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1079 {
+    position: absolute;
+    left: 13.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1080 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1081 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1082 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1084 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1085 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1086 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1088 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1091 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1092 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1093 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1095 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1096 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1097 {
+    position: absolute;
+    left: 13.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1098 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1099 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1100 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1101 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1102 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1103 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1104 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1105 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1106 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1107 {
+    margin: 0 8.8px 0 3px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1108 {
+    position: absolute;
+    left: 0.4px;
+    top: 0.9px;
+    width: 0.2px;
+    height: 3.4px;
+  }
+  .vector-1109 {
+    position: absolute;
+    left: 0.5px;
+    top: 0.9px;
+    width: 0.2px;
+    height: 3.7px;
+  }
+  .vector-1110 {
+    position: absolute;
+    left: 0.7px;
+    top: 1.5px;
+    width: 0.2px;
+    height: 3.3px;
+  }
+  .vector-1111 {
+    position: absolute;
+    left: 0.3px;
+    top: 1.6px;
+    width: 0.2px;
+    height: 2.9px;
+  }
+  .vector-1115 {
+    position: absolute;
+    left: 0.3px;
+    bottom: 0.3px;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-1116 {
+    position: absolute;
+    left: 1.8px;
+    bottom: 0.6px;
+    width: 23.9px;
+    height: 0.2px;
+  }
+  .floor-1137 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 231.7px;
+    height: 0.2px;
+    box-sizing: border-box;
+  }
+  .vector-1138 {
+    width: 231.7px;
+    height: 0.2px;
+  }
+  .coin {
+    position: relative;
+    margin: 0 2.2px 0 0.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 22.9px;
+    height: 22.9px;
+    box-sizing: border-box;
+  }
+  .group-1140 {
+    opacity: 0.1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12.2px;
+    height: 10.8px;
+    box-sizing: border-box;
+  }
+  .vector-1141 {
+    width: 12.2px;
+    height: 10.8px;
+  }
+  .vector-1142 {
+    position: absolute;
+    left: 2.6px;
+    top: 2.6px;
+    width: 17.4px;
+    height: 17.4px;
+  }
+  .group-1143 {
+    opacity: 0.2;
+    position: absolute;
+    left: 2.6px;
+    top: 2.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 17.4px;
+    height: 17.4px;
+    box-sizing: border-box;
+  }
+  .vector-1144 {
+    width: 17.4px;
+    height: 17.4px;
+  }
+  .vector-1145 {
+    position: absolute;
+    right: 2.7px;
+    bottom: 2.7px;
+    width: 17.2px;
+    height: 17.2px;
+  }
+  .group-1146 {
+    opacity: 0.2;
+    position: absolute;
+    right: 2.7px;
+    bottom: 2.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 17.2px;
+    height: 17.2px;
+    box-sizing: border-box;
+  }
+  .vector-1147 {
+    width: 17.2px;
+    height: 17.2px;
+  }
+  .vector-1148 {
+    position: absolute;
+    left: 8.2px;
+    top: 6px;
+    width: 6.2px;
+    height: 10.5px;
+  }
+  .group-1149 {
+    opacity: 0.3;
+    position: absolute;
+    left: 8.2px;
+    top: 6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 6.2px;
+    height: 10.5px;
+    box-sizing: border-box;
+  }
+  .vector-1150 {
+    width: 6.2px;
+    height: 10.5px;
+  }
+  .vector-1152 {
+    position: absolute;
+    left: 0.4px;
+    top: 6.4px;
+    width: 1.3px;
+    height: 9.8px;
+  }
+  .vector-1154 {
+    position: absolute;
+    left: 11.2px;
+    top: 6.3px;
+    width: 0.1px;
+    height: 0.7px;
+  }
+  .vector-1155 {
+    position: absolute;
+    left: 5.9px;
+    top: 2.2px;
+    width: 6.7px;
+    height: 1.7px;
+  }
+  .jar {
+    position: relative;
+    margin-right: 12.9px;
+    display: flex;
+    flex-direction: column;
+    width: 65.2px;
+    box-sizing: border-box;
+  }
+  .vector-1161 {
+    margin: 0px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1162 {
+    margin: 0px 0.6px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1163 {
+    margin: 0px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1164 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1165 {
+    margin: 0px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1166 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1167 {
+    margin: 0px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1168 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1169 {
+    margin: 0px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1170 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1172 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1173 {
+    margin: 0px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1174 {
+    margin: 0px 3.3px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1176 {
+    margin: 0px 1.6px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1178 {
+    position: absolute;
+    right: 1.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1179 {
+    margin: 0.1px 0.2px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1181 {
+    position: absolute;
+    right: 3.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1182 {
+    position: absolute;
+    right: 8.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1183 {
+    position: absolute;
+    right: 7.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1185 {
+    position: absolute;
+    left: 7.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1186 {
+    position: absolute;
+    left: 2.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1189 {
+    position: relative;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1190 {
+    margin: 0.1px 4.1px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1193 {
+    margin: 0.1px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1197 {
+    margin: 0 0.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1198 {
+    margin: 0 4.9px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1200 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1201 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1202 {
+    margin: 0px 3.3px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1204 {
+    margin: 0px 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1205 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1206 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1207 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1208 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1209 {
+    margin: 0px 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1210 {
+    margin: 0 1.3px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1211 {
+    margin: 0px 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1212 {
+    align-self: flex-end;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .group-1213 {
+    opacity: 0.3;
+    position: absolute;
+    right: 17.1px;
+    bottom: 17.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1214 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .group-1215 {
+    opacity: 0.3;
+    position: absolute;
+    right: 17.4px;
+    bottom: 11.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1216 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .group-1217 {
+    opacity: 0.3;
+    position: absolute;
+    right: 16px;
+    bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1218 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .vector-1219 {
+    margin: 1.2px 0 0.3px 0;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-1220 {
+    position: absolute;
+    left: 50%;
+    bottom: 0.6px;
+    translate: -50% 0;
+    width: 18.8px;
+    height: 0.2px;
+  }
+  .vector-1221 {
+    margin: 2.3px 0 1.3px 0;
+    width: 0.2px;
+    height: 2.7px;
+  }
+  .vector-1225 {
+    margin-top: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1226 {
+    margin: 0px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1227 {
+    margin: 0px 3.3px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1229 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1230 {
+    margin: 0px 4.9px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1233 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1234 {
+    margin: 0px 4.9px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1237 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1238 {
+    margin: 0px 4.9px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .group-1241 {
+    opacity: 0.1;
+    position: absolute;
+    right: 17.3px;
+    bottom: 41.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14.8px;
+    height: 7.8px;
+    box-sizing: border-box;
+  }
+  .vector-1242 {
+    width: 14.8px;
+    height: 7.8px;
+  }
+  .vector-1243 {
+    transform: rotate(-51.38deg);
+    position: absolute;
+    right: 13.3px;
+    bottom: 27.6px;
+    width: 22.4px;
+    height: 22.4px;
+  }
+  .group-1244 {
+    opacity: 0.2;
+    position: absolute;
+    right: 13.3px;
+    bottom: 27.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 22.4px;
+    height: 22.4px;
+    box-sizing: border-box;
+  }
+  .vector-1245 {
+    transform: rotate(-51.38deg);
+    width: 22.4px;
+    height: 22.4px;
+  }
+  .vector-1246 {
+    position: absolute;
+    right: 16.6px;
+    bottom: 30.5px;
+    width: 15.7px;
+    height: 15.7px;
+  }
+  .group-1247 {
+    opacity: 0.2;
+    position: absolute;
+    right: 16.6px;
+    bottom: 30.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15.7px;
+    height: 15.7px;
+    box-sizing: border-box;
+  }
+  .vector-1248 {
+    width: 15.7px;
+    height: 15.7px;
+  }
+  .vector-1249 {
+    position: absolute;
+    right: 20.7px;
+    bottom: 34.9px;
+    width: 7.7px;
+    height: 7.4px;
+  }
+  .group-1250 {
+    opacity: 0.3;
+    position: absolute;
+    right: 20.7px;
+    bottom: 34.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 7.7px;
+    height: 7.4px;
+    box-sizing: border-box;
+  }
+  .vector-1251 {
+    width: 7.7px;
+    height: 7.4px;
+  }
+  .vector-1253 {
+    position: absolute;
+    right: 28.5px;
+    bottom: 41.1px;
+    width: 5.9px;
+    height: 6.8px;
+  }
+  .vector-1255 {
+    margin: 27.3px 0 16.5px 0;
+    width: 0.5px;
+    height: 0.5px;
+  }
+  .vector-1256 {
+    position: absolute;
+    right: 18.4px;
+    bottom: 44.3px;
+    width: 5.7px;
+    height: 2.9px;
+  }
+  .vector-1257 {
+    position: absolute;
+    right: 30.4px;
+    bottom: 30.5px;
+    width: 3.2px;
+    height: 3.7px;
+  }
+  .vector-1259 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1260 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1261 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1262 {
+    margin-right: 1.3px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1263 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1264 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1266 {
+    margin-right: 3.3px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1267 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1268 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1270 {
+    margin-right: 3.3px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1271 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1272 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1274 {
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1276 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1277 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1279 {
+    margin: 0 3.3px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1280 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1281 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1283 {
+    margin: 0 4.9px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1284 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1287 {
+    margin: 0 4.9px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1288 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1291 {
+    margin: 0 3.6px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1292 {
+    margin: 0 6.8px;
+    align-self: flex-start;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1294 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1295 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1296 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1297 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1298 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1299 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1300 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1301 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1303 {
+    margin: 0 3.3px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1304 {
+    margin: 0 1.7px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1305 {
+    margin: 0 1.4px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1307 {
+    margin: 0 3px 0px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1308 {
+    margin-bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1310 {
+    margin: 0 9.1px;
+    align-self: flex-start;
+    width: 29.6px;
+    height: 0.3px;
+  }
+  .vector-1312 {
+    position: relative;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1315 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1316 {
+    position: absolute;
+    left: 8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1319 {
+    position: absolute;
+    left: 9.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1320 {
+    position: absolute;
+    right: 8.6px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1322 {
+    position: absolute;
+    right: 5.1px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1323 {
+    position: absolute;
+    right: 6.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1324 {
+    position: absolute;
+    right: 1.5px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1326 {
+    margin: 0 2.1px 0.1px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1327 {
+    margin: 0 1.4px 0.1px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1330 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1331 {
+    margin: 0px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1333 {
+    margin: 0px 4.9px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1334 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1337 {
+    margin: 0px 4.9px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1338 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1341 {
+    margin: 0px 4.9px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1342 {
+    margin: 0px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1344 {
+    margin-top: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1345 {
+    margin: 0px 1.3px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1346 {
+    margin: 0 9.8px;
+    align-self: flex-start;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .group-1347 {
+    opacity: 0.3;
+    position: absolute;
+    left: 9.3px;
+    bottom: 17.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1348 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .group-1349 {
+    opacity: 0.3;
+    position: absolute;
+    left: 9.5px;
+    bottom: 23.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 26.7px;
+    height: 1.4px;
+    box-sizing: border-box;
+  }
+  .vector-1350 {
+    width: 26.7px;
+    height: 1.4px;
+  }
+  .group-1351 {
+    opacity: 0.3;
+    position: absolute;
+    left: 11px;
+    bottom: 11.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27px;
+    height: 1.4px;
+    box-sizing: border-box;
+  }
+  .vector-1352 {
+    width: 27px;
+    height: 1.4px;
+  }
+  .group-1353 {
+    opacity: 0.3;
+    position: absolute;
+    left: 9.8px;
+    bottom: 5.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1354 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .vector-1356 {
+    margin: 0.8px 0.4px 1.7px 0;
+    width: 0.2px;
+    height: 3.7px;
+  }
+  .vector-1357 {
+    margin: 1.4px 0.2px 1.6px 0;
+    width: 0.2px;
+    height: 3.3px;
+  }
+  .vector-1359 {
+    position: absolute;
+    left: 8.5px;
+    bottom: 24.6px;
+    width: 9.7px;
+    height: 0.3px;
+  }
+  .vector-1363 {
+    position: absolute;
+    left: 50%;
+    bottom: 0.6px;
+    translate: -50% 0;
+    width: 23.9px;
+    height: 0.2px;
+  }
+  .vector-1365 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1368 {
+    margin-right: 4.9px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1369 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1371 {
+    margin-right: 3.3px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1372 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1373 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1375 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1376 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1377 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1378 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1379 {
+    margin: 19.3px 19.3px 18.8px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1380 {
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1382 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1383 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1384 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1385 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1386 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1387 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1388 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1389 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1390 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1391 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1393 {
+    margin-right: 3.3px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1394 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1395 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1397 {
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1398 {
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1400 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1401 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1402 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1403 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1404 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1405 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1406 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1407 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1408 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1409 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1410 {
+    margin-right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1411 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1412 {
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1413 {
+    margin-right: 1.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1415 {
+    margin: 31.9px 0.7px 6.1px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .group-1417 {
+    opacity: 0.3;
+    position: absolute;
+    left: 9.1px;
+    bottom: 49.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1418 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .group-1419 {
+    opacity: 0.3;
+    position: absolute;
+    left: 10.7px;
+    bottom: 42.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1420 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .group-1421 {
+    opacity: 0.3;
+    position: absolute;
+    left: 9.6px;
+    bottom: 36.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1422 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .vector-1423 {
+    margin: 1.4px 1.8px 1.6px 0;
+    width: 0.2px;
+    height: 3.3px;
+  }
+  .vector-1424 {
+    margin: 1.5px 0.6px 1.8px 0;
+    width: 0.2px;
+    height: 2.9px;
+  }
+  .vector-1425 {
+    margin: 1.2px 0.6px 0.3px 0;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-1426 {
+    margin: 0 3.7px 0.7px 1.9px;
+    width: 23.9px;
+    height: 0.2px;
+  }
+  .group-1428 {
+    opacity: 0.2;
+    position: absolute;
+    left: 1.3px;
+    top: 53.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 32.3px;
+    height: 31.2px;
+    box-sizing: border-box;
+  }
+  .vector-1429 {
+    transform: rotate(-55.55deg);
+    width: 32.3px;
+    height: 31.2px;
+  }
+  .group-1431 {
+    opacity: 0.1;
+    position: absolute;
+    left: 6.8px;
+    top: 56.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 22.7px;
+    height: 13.1px;
+    box-sizing: border-box;
+  }
+  .vector-1432 {
+    width: 22.7px;
+    height: 13.1px;
+  }
+  .vector-1433 {
+    position: absolute;
+    left: 9.4px;
+    top: 59px;
+    width: 18.1px;
+    height: 16.8px;
+  }
+  .group-1434 {
+    opacity: 0.2;
+    position: absolute;
+    left: 9.4px;
+    top: 59px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18.1px;
+    height: 16.8px;
+    box-sizing: border-box;
+  }
+  .vector-1435 {
+    width: 18.1px;
+    height: 16.8px;
+  }
+  .vector-1436 {
+    position: absolute;
+    left: 9.5px;
+    top: 59.9px;
+    width: 17.6px;
+    height: 16.4px;
+  }
+  .group-1437 {
+    opacity: 0.2;
+    position: absolute;
+    left: 9.5px;
+    top: 59.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 17.6px;
+    height: 16.4px;
+    box-sizing: border-box;
+  }
+  .vector-1438 {
+    width: 17.6px;
+    height: 16.4px;
+  }
+  .vector-1439 {
+    position: absolute;
+    left: 12.9px;
+    top: 64.1px;
+    width: 10.1px;
+    height: 7.5px;
+  }
+  .group-1440 {
+    opacity: 0.3;
+    position: absolute;
+    left: 12.9px;
+    top: 64.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 10.1px;
+    height: 7.5px;
+    box-sizing: border-box;
+  }
+  .vector-1441 {
+    width: 10.1px;
+    height: 7.5px;
+  }
+  .vector-1445 {
+    position: absolute;
+    left: 16.9px;
+    top: 56.8px;
+    width: 8.7px;
+    height: 3.3px;
+  }
+  .vector-1446 {
+    position: absolute;
+    left: 26.8px;
+    top: 61.5px;
+    width: 1.2px;
+    height: 1.8px;
+  }
+  .vector-1449 {
+    margin: 0 21.8px 8.5px 0;
+    align-self: center;
+    width: 0.4px;
+    height: 0.4px;
+  }
+  .group-1451 {
+    opacity: 0.2;
+    position: absolute;
+    top: 47.8px;
+    right: 12.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 23.3px;
+    height: 25.8px;
+    box-sizing: border-box;
+  }
+  .vector-1452 {
+    transform: rotate(-73.94deg);
+    width: 23.3px;
+    height: 25.8px;
+  }
+  .vector-1453 {
+    transform: rotate(-73.95deg);
+    position: absolute;
+    top: 48.2px;
+    right: 10.4px;
+    width: 23.3px;
+    height: 25.8px;
+  }
+  .group-1454 {
+    opacity: 0.1;
+    position: absolute;
+    top: 50.5px;
+    right: 12.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 11.6px;
+    height: 19px;
+    box-sizing: border-box;
+  }
+  .vector-1455 {
+    width: 11.6px;
+    height: 19px;
+  }
+  .vector-1456 {
+    position: absolute;
+    top: 52.8px;
+    right: 14.9px;
+    width: 13.9px;
+    height: 16.4px;
+  }
+  .group-1457 {
+    opacity: 0.2;
+    position: absolute;
+    top: 52.8px;
+    right: 14.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 13.9px;
+    height: 16.4px;
+    box-sizing: border-box;
+  }
+  .vector-1458 {
+    width: 13.9px;
+    height: 16.4px;
+  }
+  .vector-1459 {
+    position: absolute;
+    top: 53px;
+    right: 15.7px;
+    width: 13.5px;
+    height: 16px;
+  }
+  .group-1460 {
+    opacity: 0.2;
+    position: absolute;
+    top: 53px;
+    right: 15.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 13.5px;
+    height: 16px;
+    box-sizing: border-box;
+  }
+  .vector-1461 {
+    width: 13.5px;
+    height: 16px;
+  }
+  .vector-1462 {
+    position: absolute;
+    top: 55.5px;
+    right: 19.6px;
+    width: 5.6px;
+    height: 10px;
+  }
+  .group-1463 {
+    opacity: 0.3;
+    position: absolute;
+    top: 55.5px;
+    right: 19.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 5.6px;
+    height: 10px;
+    box-sizing: border-box;
+  }
+  .vector-1464 {
+    width: 5.6px;
+    height: 10px;
+  }
+  .vector-1466 {
+    position: absolute;
+    top: 56.7px;
+    right: 13px;
+    width: 0.9px;
+    height: 8.1px;
+  }
+  .vector-1467 {
+    position: absolute;
+    top: 64.8px;
+    right: 14.6px;
+    width: 0.6px;
+    height: 1.5px;
+  }
+  .vector-1470 {
+    margin: 0 7.5px 3px 7.5px;
+    align-self: flex-end;
+    width: 0.2px;
+    height: 0.4px;
+  }
+  .group-1472 {
+    opacity: 0.2;
+    position: absolute;
+    right: 21.2px;
+    bottom: 50.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 26px;
+    height: 21.7px;
+    box-sizing: border-box;
+  }
+  .vector-1473 {
+    transform: rotate(-74.02deg);
+    width: 26px;
+    height: 21.7px;
+  }
+  .group-1475 {
+    opacity: 0.1;
+    position: absolute;
+    right: 22.6px;
+    bottom: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 5.8px;
+    height: 8.9px;
+    box-sizing: border-box;
+  }
+  .vector-1476 {
+    width: 5.8px;
+    height: 8.9px;
+  }
+  .vector-1477 {
+    position: absolute;
+    right: 24.9px;
+    bottom: 56.8px;
+    width: 16.9px;
+    height: 12.6px;
+  }
+  .group-1478 {
+    opacity: 0.2;
+    position: absolute;
+    right: 24.9px;
+    bottom: 56.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 16.9px;
+    height: 12.6px;
+    box-sizing: border-box;
+  }
+  .vector-1479 {
+    width: 16.9px;
+    height: 12.6px;
+  }
+  .vector-1480 {
+    position: absolute;
+    right: 25.5px;
+    bottom: 56.6px;
+    width: 16.5px;
+    height: 12.2px;
+  }
+  .group-1481 {
+    opacity: 0.2;
+    position: absolute;
+    right: 25.5px;
+    bottom: 56.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 16.5px;
+    height: 12.2px;
+    box-sizing: border-box;
+  }
+  .vector-1482 {
+    width: 16.5px;
+    height: 12.2px;
+  }
+  .vector-1483 {
+    position: absolute;
+    right: 28.4px;
+    bottom: 59.8px;
+    width: 10.3px;
+    height: 5.6px;
+  }
+  .group-1484 {
+    opacity: 0.3;
+    position: absolute;
+    right: 28.4px;
+    bottom: 59.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 10.3px;
+    height: 5.6px;
+    box-sizing: border-box;
+  }
+  .vector-1485 {
+    width: 10.3px;
+    height: 5.6px;
+  }
+  .vector-1487 {
+    position: absolute;
+    right: 24.7px;
+    bottom: 66.3px;
+    width: 8.4px;
+    height: 4.8px;
+  }
+  .vector-1488 {
+    margin: 0 0 1.3px 19px;
+    align-self: center;
+    width: 2.4px;
+    height: 0.2px;
+  }
+  .vector-1490 {
+    position: absolute;
+    left: 50%;
+    bottom: 56.4px;
+    translate: -50% 0;
+    width: 6.9px;
+    height: 3.1px;
+  }
+  .group-1492 {
+    opacity: 0.3;
+    position: absolute;
+    left: 8.1px;
+    bottom: 44px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 25.6px;
+    height: 12.6px;
+    box-sizing: border-box;
+  }
+  .vector-1493 {
+    width: 25.6px;
+    height: 12.6px;
+  }
+  .vector-1494 {
+    position: absolute;
+    left: 9px;
+    bottom: 46.3px;
+    width: 24.8px;
+    height: 12.5px;
+  }
+  .group-1495 {
+    opacity: 0.1;
+    position: absolute;
+    left: 12.6px;
+    bottom: 51.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 20.1px;
+    height: 7.6px;
+    box-sizing: border-box;
+  }
+  .vector-1496 {
+    width: 20.1px;
+    height: 7.6px;
+  }
+  .vector-1497 {
+    position: absolute;
+    left: 12px;
+    bottom: 48.1px;
+    width: 19.2px;
+    height: 9px;
+  }
+  .group-1498 {
+    opacity: 0.3;
+    position: absolute;
+    left: 12px;
+    bottom: 48.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.2px;
+    height: 9px;
+    box-sizing: border-box;
+  }
+  .vector-1499 {
+    width: 19.2px;
+    height: 9px;
+  }
+  .vector-1500 {
+    position: absolute;
+    left: 11.9px;
+    bottom: 47.8px;
+    width: 18.6px;
+    height: 8.8px;
+  }
+  .group-1501 {
+    opacity: 0.2;
+    position: absolute;
+    left: 11.9px;
+    bottom: 47.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18.6px;
+    height: 8.8px;
+    box-sizing: border-box;
+  }
+  .vector-1502 {
+    width: 18.6px;
+    height: 8.8px;
+  }
+  .vector-1503 {
+    position: absolute;
+    left: 16.2px;
+    bottom: 49.6px;
+    width: 11px;
+    height: 5.1px;
+  }
+  .group-1504 {
+    opacity: 0.3;
+    position: absolute;
+    left: 16.2px;
+    bottom: 49.6px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 11px;
+    height: 5.1px;
+    box-sizing: border-box;
+  }
+  .vector-1505 {
+    width: 11px;
+    height: 5.1px;
+  }
+  .vector-1508 {
+    position: absolute;
+    left: 8.9px;
+    bottom: 48.7px;
+    width: 7.6px;
+    height: 7.8px;
+  }
+  .vector-1509 {
+    position: absolute;
+    left: 9.2px;
+    bottom: 56.2px;
+    width: 6.4px;
+    height: 2.3px;
+  }
+  .vector-1510 {
+    margin: 0 16.9px 0 11.4px;
+    width: 1.2px;
+    height: 0.7px;
+  }
+  .vector-1511 {
+    margin: 0 1.8px 1.7px 1.8px;
+    align-self: flex-start;
+    width: 0.5px;
+    height: 2.1px;
+  }
+  .vector-1516 {
+    margin: 0 6.5px 5.4px 0;
+    width: 0.2px;
+    height: 38.9px;
+  }
+  .group-1517 {
+    opacity: 0.3;
+    position: absolute;
+    left: 0.4px;
+    bottom: 23.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 73px;
+    height: 68px;
+    box-sizing: border-box;
+  }
+  .vector-1518 {
+    width: 73px;
+    height: 68px;
+  }
+  .text {
+    position: absolute;
+    left: 10.6px;
+    bottom: 15.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 45.8px;
+    height: 16.7px;
+    box-sizing: border-box;
+  }
+  .speech-bubble-21529 {
+    position: relative;
+    margin: 0 9.1px 8.4px 8.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0.1px 0.1px 0px 0.2px;
+    width: 23.9px;
+    height: 23.7px;
+    box-sizing: border-box;
+  }
+  .vector-1530 {
+    position: relative;
+    width: 23.7px;
+    height: 23.6px;
+  }
+  .ohospital-logo-1531 {
+    position: absolute;
+    left: 6.1px;
+    top: 7.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 7.7px;
+    height: 7.7px;
+    box-sizing: border-box;
+  }
+  .vector-1536 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    width: 23.9px;
+    height: 23.7px;
+  }
+  .speech-bubble-11537 {
+    position: relative;
+    margin-bottom: 17.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 25.5px;
+    height: 22.6px;
+    box-sizing: border-box;
+  }
+  .laptop-medical-solid-1 {
+    position: absolute;
+    left: 5.7px;
+    top: 6.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 8.4px;
+    box-sizing: border-box;
+  }
+  .vector-1540 {
+    width: 12px;
+    height: 8.4px;
+  }
+  .character-2 {
+    position: absolute;
+    right: 30.7px;
+    bottom: 0.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    box-sizing: border-box;
+  }
+  .vector-1542 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1543 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1545 {
+    position: absolute;
+    left: 4.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1546 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1549 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1550 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1553 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1554 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1556 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1557 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1559 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1560 {
+    position: absolute;
+    left: 1.1px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1561 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1563 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1564 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1565 {
+    position: absolute;
+    left: 13.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1566 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1567 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1568 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1569 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1570 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1571 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1572 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1573 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1574 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1576 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1579 {
+    position: absolute;
+    left: 4.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1580 {
+    position: absolute;
+    left: 9.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1582 {
+    position: absolute;
+    left: 13.4px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1583 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1584 {
+    position: absolute;
+    right: 12.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1586 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1587 {
+    position: absolute;
+    right: 10.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1588 {
+    position: absolute;
+    right: 5.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1589 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1590 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1591 {
+    position: absolute;
+    right: 3.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1593 {
+    position: absolute;
+    left: 2.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1594 {
+    position: absolute;
+    left: 1.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1595 {
+    position: absolute;
+    left: 6.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1596 {
+    position: absolute;
+    left: 4.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1598 {
+    position: absolute;
+    left: 8.2px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1599 {
+    position: absolute;
+    left: 13.3px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1600 {
+    position: absolute;
+    left: 11.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1602 {
+    position: absolute;
+    right: 13.9px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1603 {
+    position: absolute;
+    right: 8.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1606 {
+    position: absolute;
+    right: 6.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1607 {
+    position: absolute;
+    right: 1.7px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1609 {
+    margin-right: 3.7px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1611 {
+    margin: 0.1px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1612 {
+    margin: 0.1px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1613 {
+    margin: 0.1px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1614 {
+    margin: 0.1px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1615 {
+    margin: 0.1px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1616 {
+    margin: 0.1px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1617 {
+    margin: 0.1px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1618 {
+    margin: 0.1px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1619 {
+    position: relative;
+    margin: 0.1px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1620 {
+    margin: 0.1px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1621 {
+    margin: 0.1px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1622 {
+    margin: 0.1px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1623 {
+    margin: 0.1px 1.7px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1624 {
+    margin: 0.1px 1.4px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1625 {
+    position: absolute;
+    left: 0.8px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1626 {
+    margin: 0.1px 0.5px 0 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1627 {
+    margin: 0 2.9px;
+    align-self: flex-start;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1628 {
+    margin: 0 0 5.9px 2.2px;
+    width: 31px;
+    height: 0.2px;
+  }
+  .group-1629 {
+    opacity: 0.3;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1630 {
+    width: 27px;
+    height: 1.3px;
+  }
+  .group-1631 {
+    opacity: 0.3;
+    position: absolute;
+    right: 1.9px;
+    bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1632 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .group-1633 {
+    opacity: 0.3;
+    position: absolute;
+    left: 3px;
+    bottom: 5.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1634 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .vector-1636 {
+    position: absolute;
+    left: 0.3px;
+    top: 1.6px;
+    width: 0.2px;
+    height: 2.9px;
+  }
+  .vector-1637 {
+    margin: 1.3px 0.7px 0.3px 0;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-1638 {
+    position: absolute;
+    left: 1.8px;
+    bottom: 0.6px;
+    width: 23.9px;
+    height: 0.2px;
+  }
+  .group-1640 {
+    opacity: 0.1;
+    position: absolute;
+    left: 3.1px;
+    top: 4.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 11.8px;
+    height: 19px;
+    box-sizing: border-box;
+  }
+  .vector-1641 {
+    width: 11.8px;
+    height: 19px;
+  }
+  .vector-1642 {
+    transform: rotate(-13.65deg);
+    position: absolute;
+    left: 4px;
+    top: 4.2px;
+    width: 27px;
+    height: 27px;
+  }
+  .group-1643 {
+    opacity: 0.2;
+    position: absolute;
+    left: 4px;
+    top: 4.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27px;
+    height: 27px;
+    box-sizing: border-box;
+  }
+  .vector-1644 {
+    transform: rotate(-13.65deg);
+    width: 27px;
+    height: 27px;
+  }
+  .vector-1645 {
+    position: absolute;
+    right: 6.5px;
+    bottom: 6.7px;
+    width: 22.1px;
+    height: 22.1px;
+  }
+  .group-1646 {
+    opacity: 0.2;
+    position: absolute;
+    right: 6.5px;
+    bottom: 6.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 22.1px;
+    height: 22.1px;
+    box-sizing: border-box;
+  }
+  .vector-1647 {
+    width: 22.1px;
+    height: 22.1px;
+  }
+  .vector-1648 {
+    position: absolute;
+    top: 11.3px;
+    right: 13.3px;
+    width: 9px;
+    height: 12.8px;
+  }
+  .group-1649 {
+    opacity: 0.3;
+    position: absolute;
+    top: 11.3px;
+    right: 13.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 9px;
+    height: 12.8px;
+    box-sizing: border-box;
+  }
+  .vector-1650 {
+    width: 9px;
+    height: 12.8px;
+  }
+  .vector-1654 {
+    position: absolute;
+    left: 14.8px;
+    top: 12px;
+    width: 0.3px;
+    height: 0.9px;
+  }
+  .vector-1659 {
+    position: absolute;
+    top: 8.1px;
+    right: 0.7px;
+    width: 5px;
+    height: 2.6px;
+  }
+  .vector-1660 {
+    margin: 0 3.9px 0.1px 0;
+    width: 1.1px;
+    height: 1px;
+  }
+  .vector-1661 {
+    margin: 0 0 0.7px 16.9px;
+    align-self: center;
+    width: 2.2px;
+    height: 0.6px;
+  }
+  .vector-1662 {
+    margin-top: 0.1px;
+    width: 1.1px;
+    height: 1px;
+  }
+  .vector-1663 {
+    margin: 0 16.3px;
+    width: 2.2px;
+    height: 0.6px;
+  }
+  .vector-1666 {
+    margin: 0 16.1px;
+    width: 2.4px;
+    height: 0.7px;
+  }
+  .vector-1672 {
+    margin-top: 7.4px;
+    width: 3.8px;
+    height: 1.6px;
+  }
+  .vector-1680 {
+    position: absolute;
+    top: 6px;
+    right: 6.7px;
+    width: 1.6px;
+    height: 0.4px;
+  }
+  .vector-1682 {
+    position: relative;
+    width: 0.3px;
+    height: 12.3px;
+  }
+  .vector-1689 {
+    margin: 0 13.2px 13.5px 0;
+    align-self: center;
+    width: 6.6px;
+    height: 1px;
+  }
+  .vector-1696 {
+    position: absolute;
+    top: 13.7px;
+    right: 2.7px;
+    width: 6.2px;
+    height: 2.6px;
+  }
+  .vector-1703 {
+    margin: 0 1.7px 0.1px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1704 {
+    position: absolute;
+    left: 53.8px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1705 {
+    position: absolute;
+    left: 58.9px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1706 {
+    margin: 0 4.9px 0.1px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1707 {
+    margin: 0 1.7px 0.1px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1708 {
+    position: absolute;
+    left: 60.9px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1709 {
+    position: absolute;
+    left: 66px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1710 {
+    margin: 0 6.8px 0.1px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1711 {
+    position: absolute;
+    left: 69.5px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1712 {
+    position: absolute;
+    left: 67.9px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1713 {
+    position: absolute;
+    left: 73.1px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1714 {
+    margin-bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1715 {
+    position: absolute;
+    left: 76.6px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1716 {
+    position: absolute;
+    left: 75px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1717 {
+    position: absolute;
+    left: 80.1px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1718 {
+    position: absolute;
+    left: 78.5px;
+    bottom: 26.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1719 {
+    position: absolute;
+    left: 52.5px;
+    bottom: 32.3px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1721 {
+    position: relative;
+    margin: 0 1.7px 0.1px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1722 {
+    position: absolute;
+    left: 51.9px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1723 {
+    position: absolute;
+    left: 57px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1724 {
+    margin: 0 6.8px 0.1px 0;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1725 {
+    position: absolute;
+    left: 60.5px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1726 {
+    position: absolute;
+    left: 58.9px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1727 {
+    position: absolute;
+    left: 64.1px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1729 {
+    position: absolute;
+    left: 67.6px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1730 {
+    position: absolute;
+    left: 66px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1731 {
+    position: absolute;
+    left: 71.1px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1732 {
+    position: absolute;
+    left: 69.5px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1733 {
+    position: absolute;
+    left: 74.7px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1734 {
+    position: absolute;
+    left: 73.1px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1735 {
+    position: absolute;
+    left: 78.2px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1736 {
+    position: absolute;
+    left: 76.6px;
+    bottom: 19.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1737 {
+    position: absolute;
+    left: 50.6px;
+    bottom: 25.9px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1739 {
+    position: absolute;
+    left: 55.9px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1742 {
+    position: absolute;
+    left: 57.8px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1743 {
+    position: absolute;
+    left: 63px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1746 {
+    position: absolute;
+    left: 64.9px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1747 {
+    position: absolute;
+    left: 70px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1749 {
+    position: absolute;
+    left: 73.5px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1750 {
+    position: absolute;
+    left: 71.9px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1751 {
+    position: absolute;
+    left: 77.1px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1753 {
+    position: absolute;
+    left: 80.6px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1754 {
+    position: absolute;
+    left: 79px;
+    bottom: 13.4px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1757 {
+    position: absolute;
+    left: 53.6px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1758 {
+    position: absolute;
+    left: 52px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1759 {
+    position: absolute;
+    left: 57.1px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1760 {
+    position: absolute;
+    left: 55.5px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1761 {
+    position: absolute;
+    left: 60.6px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1762 {
+    position: absolute;
+    left: 59px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1763 {
+    position: absolute;
+    left: 64.2px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1764 {
+    position: absolute;
+    left: 62.6px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1765 {
+    position: absolute;
+    left: 67.7px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1766 {
+    position: absolute;
+    left: 66.1px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1767 {
+    position: absolute;
+    left: 71.2px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1768 {
+    position: absolute;
+    left: 69.6px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1769 {
+    position: absolute;
+    left: 74.8px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1770 {
+    position: absolute;
+    left: 73.2px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1771 {
+    position: relative;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1772 {
+    position: absolute;
+    left: 76.7px;
+    bottom: 7.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1773 {
+    position: absolute;
+    left: 50.7px;
+    bottom: 13.3px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .vector-1775 {
+    position: absolute;
+    left: 56.5px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1776 {
+    position: absolute;
+    left: 54.9px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1777 {
+    position: absolute;
+    left: 60.1px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1779 {
+    position: absolute;
+    left: 63.6px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1780 {
+    position: absolute;
+    left: 62px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1781 {
+    position: absolute;
+    left: 67.1px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1782 {
+    position: absolute;
+    left: 65.5px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1783 {
+    position: absolute;
+    left: 70.7px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1784 {
+    position: absolute;
+    left: 69px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1785 {
+    position: absolute;
+    left: 74.2px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1786 {
+    position: absolute;
+    left: 72.6px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1787 {
+    position: absolute;
+    left: 77.7px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1788 {
+    position: absolute;
+    left: 76.1px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1789 {
+    position: absolute;
+    left: 81.2px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1790 {
+    position: absolute;
+    left: 79.6px;
+    bottom: 0.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .vector-1791 {
+    position: absolute;
+    left: 53.7px;
+    bottom: 6.9px;
+    width: 29.5px;
+    height: 0.3px;
+  }
+  .group-1792 {
+    opacity: 0.3;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1793 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .group-1794 {
+    opacity: 0.3;
+    position: absolute;
+    right: 2.6px;
+    bottom: 24.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1795 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .group-1796 {
+    opacity: 0.3;
+    position: absolute;
+    top: 6.3px;
+    right: 1.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1797 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .group-1798 {
+    opacity: 0.3;
+    position: absolute;
+    left: 1px;
+    bottom: 5.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 27.1px;
+    height: 1.3px;
+    box-sizing: border-box;
+  }
+  .vector-1799 {
+    width: 27.1px;
+    height: 1.3px;
+  }
+  .vector-1800 {
+    position: absolute;
+    left: 53.1px;
+    bottom: 28.1px;
+    width: 0.2px;
+    height: 3.4px;
+  }
+  .vector-1801 {
+    position: absolute;
+    left: 51.2px;
+    bottom: 21.4px;
+    width: 0.2px;
+    height: 3.7px;
+  }
+  .vector-1802 {
+    position: absolute;
+    left: 53.9px;
+    bottom: 14.9px;
+    width: 0.2px;
+    height: 3.3px;
+  }
+  .vector-1803 {
+    position: absolute;
+    left: 51.1px;
+    bottom: 9px;
+    width: 0.2px;
+    height: 2.9px;
+  }
+  .vector-1804 {
+    position: absolute;
+    left: 52.3px;
+    bottom: 25.4px;
+    width: 9.7px;
+    height: 0.3px;
+  }
+  .vector-1805 {
+    position: absolute;
+    left: 55.4px;
+    bottom: 31.4px;
+    width: 9.8px;
+    height: 0.3px;
+  }
+  .vector-1806 {
+    position: absolute;
+    left: 66.7px;
+    bottom: 31.3px;
+    width: 3.2px;
+    height: 0.3px;
+  }
+  .vector-1807 {
+    position: absolute;
+    left: 54.1px;
+    bottom: 1px;
+    width: 0.2px;
+    height: 4.8px;
+  }
+  .vector-1808 {
+    margin: 5.4px 1.8px 0.6px 0;
+    width: 23.9px;
+    height: 0.2px;
+  }
+  .group-1810 {
+    opacity: 0.1;
+    position: absolute;
+    left: 102.3px;
+    top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 13px;
+    height: 13.8px;
+    box-sizing: border-box;
+  }
+  .vector-1811 {
+    width: 13px;
+    height: 13.8px;
+  }
+  .vector-1812 {
+    position: absolute;
+    left: 105.3px;
+    top: 3px;
+    width: 20.3px;
+    height: 20.3px;
+  }
+  .group-1813 {
+    opacity: 0.2;
+    position: absolute;
+    left: 105.3px;
+    top: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 20.3px;
+    height: 20.3px;
+    box-sizing: border-box;
+  }
+  .vector-1814 {
+    width: 20.3px;
+    height: 20.3px;
+  }
+  .vector-1815 {
+    position: absolute;
+    left: 105.9px;
+    top: 3.5px;
+    width: 20px;
+    height: 20px;
+  }
+  .group-1816 {
+    opacity: 0.2;
+    position: absolute;
+    left: 105.9px;
+    top: 3.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    box-sizing: border-box;
+  }
+  .vector-1817 {
+    width: 20px;
+    height: 20px;
+  }
+  .vector-1818 {
+    position: absolute;
+    left: 112.2px;
+    top: 7px;
+    width: 7px;
+    height: 12.3px;
+  }
+  .group-1819 {
+    opacity: 0.3;
+    position: absolute;
+    left: 112.2px;
+    top: 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 7px;
+    height: 12.3px;
+    box-sizing: border-box;
+  }
+  .vector-1820 {
+    width: 7px;
+    height: 12.3px;
+  }
+  .vector-1823 {
+    position: absolute;
+    left: 102.8px;
+    top: 8.6px;
+    width: 1.8px;
+    height: 11.4px;
+  }
+  .vector-1825 {
+    position: absolute;
+    left: 114.8px;
+    top: 7.4px;
+    width: 0.1px;
+    height: 0.8px;
+  }
+  .vector-1826 {
+    position: absolute;
+    left: 108.4px;
+    top: 2.7px;
+    width: 7.6px;
+    height: 2.6px;
+  }
+  .vector-1830 {
+    position: absolute;
+    left: 108.7px;
+    top: 26.3px;
+    width: 3.3px;
+    height: 0.6px;
+  }
+  .vector-1858 {
+    position: absolute;
+    left: 67.4px;
+    top: 0.7px;
+    width: 7.3px;
+    height: 5.2px;
+  }
+  .vector-1861 {
+    margin: 0.3px 2.6px 4.9px 0;
+    width: 1.1px;
+    height: 1.1px;
+  }
+  .group-1862 {
+    opacity: 0.6;
+    position: absolute;
+    right: 12.6px;
+    bottom: 32.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14.3px;
+    height: 1.7px;
+    box-sizing: border-box;
+  }
+  .vector-1863 {
+    width: 14.3px;
+    height: 1.7px;
+  }
+  .vector-1864 {
+    margin: 1px 0.5px 4.5px 0;
+    width: 1.3px;
+    height: 0.8px;
+  }
+  .vector-1865 {
+    margin: 1.7px 0 3.5px 0;
+    width: 1px;
+    height: 1.1px;
+  }
+  .vector-1866 {
+    position: absolute;
+    left: 65.6px;
+    bottom: 34.6px;
+    width: 0.7px;
+    height: 1.2px;
+  }
+  .vector-1870 {
+    margin: 0 19.2px 5.7px 19.2px;
+    width: 1.1px;
+    height: 1.1px;
+  }
+  .group-1871 {
+    opacity: 0.6;
+    position: absolute;
+    right: 15.1px;
+    bottom: 7.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 9.5px;
+    height: 11.7px;
+    box-sizing: border-box;
+  }
+  .vector-1872 {
+    width: 9.5px;
+    height: 11.7px;
+  }
+  .vector-1873 {
+    position: absolute;
+    right: 16.9px;
+    bottom: 15.4px;
+    width: 1.5px;
+    height: 0.6px;
+  }
+  .vector-1874 {
+    position: absolute;
+    left: 38.5px;
+    bottom: 52.1px;
+    width: 1.4px;
+    height: 0.4px;
+  }
+  .vector-1875 {
+    position: absolute;
+    left: 39.1px;
+    bottom: 50.3px;
+    width: 1.3px;
+    height: 0.5px;
+  }
+  .vector-1878 {
+    margin: 0 0.8px 1.1px 0;
+    width: 7.1px;
+    height: 52.4px;
+  }
+  .group-1881 {
+    opacity: 0.3;
+    position: relative;
+    margin: 0 3.8px 4.2px 4.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 9.1px;
+    height: 2.2px;
+    box-sizing: border-box;
+  }
+  .vector-1882 {
+    width: 9.1px;
+    height: 2.2px;
+  }
+  .vector-1883 {
+    margin-left: 12.9px;
+    width: 4.2px;
+    height: 16.3px;
+  }
+  .vector-1885 {
+    position: absolute;
+    left: 72px;
+    top: 33.2px;
+    width: 17.2px;
+    height: 2.7px;
+  }
+  .doctorspana {
+    margin: 0 25px 17.1px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 273px;
+    box-sizing: border-box;
+  }
+  .background-complete-1886 {
+    position: relative;
+    margin: 0 1.4px 0 3.5px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 0.2px;
+    width: 268.1px;
+    box-sizing: border-box;
+  }
+  .vector-1935 {
+    margin-bottom: 36px;
+    width: 14.4px;
+    height: 20.4px;
+  }
+  .vector-1936 {
+    margin: 7.7px 36px 145.2px 0;
+    width: 4px;
+    height: 11.7px;
+  }
+  .icons {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 90.7px;
+    box-sizing: border-box;
+  }
+  .character-3 {
+    position: absolute;
+    right: 18.5px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .group-1943 {
+    opacity: 0.3;
+    position: absolute;
+    top: 36.2px;
+    right: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 13.8px;
+    height: 4.3px;
+    box-sizing: border-box;
+  }
+  .vector-1944 {
+    width: 13.8px;
+    height: 4.3px;
+  }
+  .vector-1948 {
+    position: absolute;
+    top: 19.2px;
+    right: 16.7px;
+    width: 0.7px;
+    height: 15.3px;
+  }
+  .group-1950 {
+    opacity: 0.3;
+    position: absolute;
+    left: 50%;
+    top: 2.2px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 29.5px;
+    height: 14.7px;
+    box-sizing: border-box;
+  }
+  .vector-1951 {
+    width: 29.5px;
+    height: 14.7px;
+  }
+  .group-1952 {
+    opacity: 0.3;
+    position: absolute;
+    left: 1.2px;
+    top: 32.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 20.7px;
+    height: 5px;
+    box-sizing: border-box;
+  }
+  .vector-1953 {
+    width: 20.7px;
+    height: 5px;
+  }
+  .vector-1968 {
+    position: absolute;
+    right: 13.8px;
+    bottom: 18.3px;
+    width: 0.3px;
+    height: 1.3px;
+  }
+  .vector-1969 {
+    position: absolute;
+    right: 13.8px;
+    bottom: 15.8px;
+    width: 0.3px;
+    height: 0.8px;
+  }
+  .vector-1977 {
+    position: absolute;
+    right: 14.4px;
+    bottom: 29.3px;
+    width: 3.6px;
+    height: 0.9px;
+  }
+  .vector-1980 {
+    position: absolute;
+    right: 21.4px;
+    bottom: 35.5px;
+    width: 0.8px;
+    height: 0.6px;
+  }
+  .vector-1984 {
+    margin: 0 0 3.3px 9.4px;
+    width: 10px;
+    height: 4.9px;
+  }
+  .vector-1985 {
+    margin: 0 1.1px 2.5px 1.1px;
+    width: 2.2px;
+    height: 2.1px;
+  }
+  .vector-1986 {
+    margin-bottom: 0px;
+    width: 4.3px;
+    height: 1.2px;
+  }
+  .vector-1987 {
+    margin: 0 1.1px 1.8px 1.1px;
+    width: 2.2px;
+    height: 2.1px;
+  }
+  .vector-1988 {
+    margin-bottom: 0.2px;
+    width: 4.3px;
+    height: 1.2px;
+  }
+  .vector-1989 {
+    margin: 0 0 0.8px 3.1px;
+    width: 3.5px;
+    height: 9.9px;
+  }
+  .vector-1990 {
+    margin-right: 2.7px;
+    width: 3.9px;
+    height: 3.4px;
+  }
+  .vector-1991 {
+    margin: 0 6.8px 0.4px 0;
+    width: 5.4px;
+    height: 1.6px;
+  }
+  .vector-1992 {
+    margin-top: 0.7px;
+    width: 4px;
+    height: 1.3px;
+  }
+  .vector-1996 {
+    margin: 0 3.8px 0.6px 0.3px;
+    width: 0.3px;
+    height: 0.3px;
+  }
+  .vector-1997 {
+    margin: 0.1px 1.3px 0 0;
+    width: 0.3px;
+    height: 0.3px;
+  }
+  .vector-1998 {
+    margin-bottom: 0px;
+    width: 0.3px;
+    height: 0.4px;
+  }
+  .vector-1999 {
+    margin: 0 2.7px 0 1.4px;
+    width: 0.3px;
+    height: 0.2px;
+  }
+  .vector-2000 {
+    margin: 0 0.6px 0.3px 3.4px;
+    width: 0.3px;
+    height: 0.3px;
+  }
+  .vector-2001 {
+    margin: 0 1.5px 0 2.6px;
+    width: 0.3px;
+    height: 0.3px;
+  }
+  .vector-2002 {
+    margin: 5.6px 0 8.4px 0;
+    width: 0.3px;
+    height: 0.3px;
+  }
+  .vector-2003 {
+    margin: 0 2.9px 1.1px 1.2px;
+    width: 0.3px;
+    height: 0.2px;
+  }
+  .vector-2004 {
+    margin: 0 1.8px 0 2.3px;
+    width: 0.3px;
+    height: 0.3px;
+  }
+  .vector-2005 {
+    margin: 0 0.4px 0 3.7px;
+    width: 0.3px;
+    height: 0.2px;
+  }
+  .vector-2016 {
+    position: absolute;
+    left: 24.4px;
+    top: 37px;
+    width: 2.4px;
+    height: 0.7px;
+  }
+  .character-1 {
+    position: absolute;
+    left: 18.2px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .group-2035 {
+    opacity: 0.3;
+    margin-right: 0.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 21.9px;
+    height: 18.2px;
+    box-sizing: border-box;
+  }
+  .vector-2036 {
+    width: 21.9px;
+    height: 18.2px;
+  }
+  .vector-2038 {
+    position: relative;
+    margin: 0 0 52.1px 5.3px;
+    width: 16.8px;
+    height: 2px;
+  }
+  .group-2039 {
+    opacity: 0.3;
+    position: absolute;
+    top: 8.5px;
+    right: 1.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14.6px;
+    height: 5.6px;
+    box-sizing: border-box;
+  }
+  .vector-2040 {
+    width: 14.6px;
+    height: 5.6px;
+  }
+  .vector-2041 {
+    position: absolute;
+    left: 8.3px;
+    top: 5px;
+    width: 1px;
+    height: 5.3px;
+  }
+  .vector-2042 {
+    position: absolute;
+    top: 4.5px;
+    right: 8.2px;
+    width: 0.9px;
+    height: 5.1px;
+  }
+  .vector-2043 {
+    margin-top: 4.1px;
+    width: 0.9px;
+    height: 4.5px;
+  }
+  .vector-2055 {
+    position: absolute;
+    left: 1.6px;
+    bottom: 5.3px;
+    width: 5.5px;
+    height: 0.2px;
+  }
+  .vector-2060 {
+    margin: 69.9px 1.1px 14.9px 0;
+    width: 4.2px;
+    height: 6.1px;
+  }
+  .vector-2068 {
+    margin: 0 10.4px 6.4px 8.9px;
+    width: 2.8px;
+    height: 3.8px;
+  }
+  .group-2070 {
+    opacity: 0.3;
+    position: absolute;
+    left: 32.7px;
+    bottom: 33px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12.4px;
+    height: 10.2px;
+    box-sizing: border-box;
+  }
+  .vector-2071 {
+    width: 12.4px;
+    height: 10.2px;
+  }
+  .vector-2076 {
+    margin: 0 3.6px 0px 0;
+    width: 10.9px;
+    height: 5.5px;
+  }
+  .vector-2077 {
+    width: 2.4px;
+    height: 2.3px;
+  }
+  .vector-2079 {
+    margin: 0 10.2px 0px 0;
+    width: 2.4px;
+    height: 2.3px;
+  }
+  .vector-2080 {
+    margin: 16.8px 0 0.4px 0;
+    width: 4.7px;
+    height: 1.3px;
+  }
+  .vector-2082 {
+    margin-top: 8.3px;
+    width: 4.3px;
+    height: 3.7px;
+  }
+  .vector-2086 {
+    position: absolute;
+    left: 33.8px;
+    top: 40.1px;
+    width: 11.5px;
+    height: 11.5px;
+  }
+  .vector-2095 {
+    position: absolute;
+    right: 23.4px;
+    bottom: 0px;
+    width: 0.2px;
+    height: 47.2px;
+  }
+  .vector-2104 {
+    position: absolute;
+    left: 4.5px;
+    bottom: 28px;
+    width: 7.5px;
+    height: 4.7px;
+  }
+  .vector-2105 {
+    position: absolute;
+    left: 2.6px;
+    bottom: 32.6px;
+    width: 9.4px;
+    height: 3.9px;
+  }
+  .vector-2108 {
+    margin: 38.1px 0.2px 38.7px 0;
+    width: 0.2px;
+    height: 14.6px;
+  }
+  .vector-2112 {
+    position: absolute;
+    left: 14.1px;
+    top: 25.2px;
+    width: 0.2px;
+    height: 8.6px;
+  }
+  .vector-2120 {
+    position: absolute;
+    left: 11.7px;
+    top: 34.1px;
+    width: 2.4px;
+    height: 0.7px;
+  }
+  .vector-2121 {
+    position: absolute;
+    top: 5.1px;
+    right: 4.9px;
+    width: 5.5px;
+    height: 12.1px;
+  }
+  .vector-2124 {
+    position: absolute;
+    top: 21.2px;
+    right: 0px;
+    width: 12px;
+    height: 5.4px;
+  }
+  .desk-2129 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 273px;
+    height: 0.2px;
+    box-sizing: border-box;
+  }
+  .vector-2130 {
+    width: 273px;
+    height: 0.2px;
+  }
+  .welcome-to-ohospital-personalizing-healthcare-to-your-needs {
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Karla';
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: -0.4px;
+    line-height: 1.333;
+    color: #00B7CC;
+  }
+  .online-doctorpana {
+    position: relative;
+    margin: 0 3.1px 15.6px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 279.4px;
+    box-sizing: border-box;
+  }
+  .background-complete-2131 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 267.9px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .desk-2149 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 279.4px;
+    height: 0.2px;
+    box-sizing: border-box;
+  }
+  .vector-2150 {
+    width: 279.4px;
+    height: 0.2px;
+  }
+  .vector-2160 {
+    position: absolute;
+    left: 50%;
+    bottom: 3.4px;
+    translate: -50% 0;
+    width: 185.8px;
+    height: 0.3px;
+  }
+  .vector-2178 {
+    position: absolute;
+    left: 89.5px;
+    bottom: 9.8px;
+    width: 0.2px;
+    height: 99.5px;
+  }
+  .vector-2181 {
+    position: absolute;
+    left: 78.7px;
+    top: 58px;
+    width: 0.3px;
+    height: 1px;
+  }
+  .vector-2182 {
+    position: absolute;
+    left: 79.3px;
+    top: 58.2px;
+    width: 0.2px;
+    height: 0.7px;
+  }
+  .vector-2183 {
+    position: absolute;
+    left: 79.6px;
+    top: 58px;
+    width: 0.7px;
+    height: 1px;
+  }
+  .vector-2184 {
+    position: absolute;
+    left: 80.4px;
+    top: 58px;
+    width: 0.7px;
+    height: 1px;
+  }
+  .vector-2186 {
+    position: absolute;
+    left: 79.8px;
+    bottom: 36.6px;
+    width: 0.3px;
+    height: 1px;
+  }
+  .vector-2189 {
+    position: absolute;
+    left: 81.5px;
+    bottom: 36.5px;
+    width: 0.7px;
+    height: 1px;
+  }
+  .vector-2204 {
+    position: absolute;
+    left: 65.5px;
+    bottom: 17px;
+    width: 0.7px;
+    height: 0.8px;
+  }
+  .vector-2206 {
+    position: absolute;
+    left: 67.5px;
+    bottom: 17px;
+    width: 0.8px;
+    height: 0.9px;
+  }
+  .vector-2207 {
+    position: absolute;
+    left: 68.4px;
+    bottom: 17px;
+    width: 0.2px;
+    height: 0.2px;
+  }
+  .vector-2208 {
+    position: absolute;
+    left: 68.7px;
+    bottom: 17px;
+    width: 0.2px;
+    height: 0.2px;
+  }
+  .vector-2209 {
+    position: absolute;
+    left: 69px;
+    bottom: 17px;
+    width: 0.2px;
+    height: 0.2px;
+  }
+  .vector-2211 {
+    position: absolute;
+    left: 59.2px;
+    top: 43.4px;
+    width: 16.6px;
+    height: 0.1px;
+  }
+  .vector-2212 {
+    position: absolute;
+    left: 59.2px;
+    top: 45.4px;
+    width: 16.6px;
+    height: 0.1px;
+  }
+  .vector-2213 {
+    position: absolute;
+    left: 59.2px;
+    top: 47.5px;
+    width: 16.6px;
+    height: 0.1px;
+  }
+  .vector-2214 {
+    position: absolute;
+    left: 59.2px;
+    top: 49.5px;
+    width: 16.6px;
+    height: 0.1px;
+  }
+  .vector-2215 {
+    position: absolute;
+    left: 59.2px;
+    top: 51.6px;
+    width: 8.3px;
+    height: 0.1px;
+  }
+  .vector-2217 {
+    position: absolute;
+    left: 56.9px;
+    top: 65.7px;
+    width: 14.5px;
+    height: 0.1px;
+  }
+  .vector-2220 {
+    position: absolute;
+    left: 54.7px;
+    bottom: 48.8px;
+    width: 0.3px;
+    height: 1px;
+  }
+  .vector-2222 {
+    position: absolute;
+    left: 55.5px;
+    bottom: 48.7px;
+    width: 0.7px;
+    height: 1px;
+  }
+  .vector-2223 {
+    position: absolute;
+    left: 56.4px;
+    bottom: 48.7px;
+    width: 0.8px;
+    height: 1px;
+  }
+  .vector-2226 {
+    position: absolute;
+    left: 57.4px;
+    bottom: 55.8px;
+    width: 20.5px;
+    height: 0.1px;
+  }
+  .vector-2228 {
+    position: absolute;
+    left: 55.7px;
+    bottom: 40.7px;
+    width: 15.4px;
+    height: 0.1px;
+  }
+  .vector-2229 {
+    position: absolute;
+    left: 55.6px;
+    bottom: 38.5px;
+    width: 9.9px;
+    height: 0.1px;
+  }
+  .speech-bubble-2234 {
+    position: relative;
+    margin: 0 0 0.7px 90.2px;
+    display: flex;
+    flex-direction: row;
+    width: 14.2px;
+    box-sizing: border-box;
+  }
+  .character-12245 {
+    position: absolute;
+    top: 10.8px;
+    right: 48.1px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .vector-2247 {
+    margin: 0 2.7px 1.4px 2.7px;
+    align-self: flex-start;
+    width: 3.9px;
+    height: 0.2px;
+  }
+  .vector-2252 {
+    position: relative;
+    width: 24.4px;
+    height: 75.2px;
+  }
+  .group-2253 {
+    opacity: 0.3;
+    position: absolute;
+    right: 0.1px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 20.7px;
+    height: 10.9px;
+    box-sizing: border-box;
+  }
+  .vector-2254 {
+    width: 20.7px;
+    height: 10.9px;
+  }
+  .group-2259 {
+    opacity: 0.3;
+    position: absolute;
+    top: 6.5px;
+    right: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24.4px;
+    height: 52.5px;
+    box-sizing: border-box;
+  }
+  .vector-2260 {
+    width: 24.4px;
+    height: 52.5px;
+  }
+  .vector-2277 {
+    margin: 0 10.3px 0.4px 0.5px;
+    width: 18.3px;
+    height: 0.2px;
+  }
+  .vector-2278 {
+    margin: 0 9.8px 2.9px 1px;
+    width: 18.3px;
+    height: 0.2px;
+  }
+  .vector-2279 {
+    margin: 0 7.4px 3.1px 3.5px;
+    width: 18.3px;
+    height: 0.2px;
+  }
+  .vector-2280 {
+    margin: 0 5.8px 2.8px 5px;
+    width: 18.3px;
+    height: 0.2px;
+  }
+  .vector-2281 {
+    margin: 0 4.8px 2.5px 6px;
+    width: 18.3px;
+    height: 0.2px;
+  }
+  .vector-2282 {
+    margin: 0 2.3px 3.4px 8.5px;
+    width: 18.3px;
+    height: 0.2px;
+  }
+  .vector-2283 {
+    margin: 0 0 3.2px 10.8px;
+    width: 18.3px;
+    height: 0.2px;
+  }
+  .vector-2284 {
+    margin: 0 0.2px 3.1px 10.7px;
+    width: 18.3px;
+    height: 0.2px;
+  }
+  .vector-2299 {
+    position: absolute;
+    top: 5.5px;
+    right: 0.9px;
+    width: 2.6px;
+    height: 0.4px;
+  }
+  .vector-2302 {
+    position: absolute;
+    left: 2.1px;
+    top: 4.4px;
+    width: 0px;
+    height: 0.1px;
+  }
+  .vector-2304 {
+    position: absolute;
+    left: 2.1px;
+    top: 4.5px;
+    width: 0px;
+    height: 0px;
+  }
+  .vector-2310 {
+    margin: 0 6.2px 1.3px 12.3px;
+    width: 10.8px;
+    height: 4.9px;
+  }
+  .vector-2318 {
+    width: 138.4px;
+    height: 0.2px;
+  }
+  .vector-2323 {
+    position: absolute;
+    right: 70.3px;
+    bottom: 31.3px;
+    width: 1.6px;
+    height: 0.7px;
+  }
+  .vector-2329 {
+    position: absolute;
+    right: 56.7px;
+    bottom: 41.6px;
+    width: 1.5px;
+    height: 0.4px;
+  }
+  .vector-2332 {
+    position: absolute;
+    right: 56.1px;
+    bottom: 43.4px;
+    width: 1.9px;
+    height: 0.6px;
+  }
+  .vector-2333 {
+    position: absolute;
+    right: 60.3px;
+    bottom: 43.6px;
+    width: 1.4px;
+    height: 0.5px;
+  }
+  .vector-2335 {
+    position: absolute;
+    right: 52.6px;
+    bottom: 38.3px;
+    width: 0.9px;
+    height: 1.6px;
+  }
+  .vector-2337 {
+    position: absolute;
+    right: 56.7px;
+    bottom: 40.3px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2338 {
+    position: absolute;
+    right: 57.5px;
+    bottom: 40.6px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2339 {
+    position: absolute;
+    right: 58px;
+    bottom: 40.6px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2340 {
+    position: absolute;
+    right: 57.1px;
+    bottom: 39.9px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2341 {
+    position: absolute;
+    right: 57.8px;
+    bottom: 40.1px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2342 {
+    position: absolute;
+    right: 61.5px;
+    bottom: 40.8px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2343 {
+    position: absolute;
+    right: 62px;
+    bottom: 40.9px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2344 {
+    position: absolute;
+    right: 61px;
+    bottom: 40.7px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2345 {
+    position: absolute;
+    right: 61.4px;
+    bottom: 40.2px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2346 {
+    position: absolute;
+    right: 61.9px;
+    bottom: 40.4px;
+    width: 0.1px;
+    height: 0.1px;
+  }
+  .vector-2355 {
+    position: absolute;
+    right: 69.6px;
+    bottom: 12.4px;
+    width: 1.6px;
+    height: 0.1px;
+  }
+  .vector-2356 {
+    position: absolute;
+    right: 69.6px;
+    bottom: 13.3px;
+    width: 2.3px;
+    height: 0.1px;
+  }
+  .group-2357 {
+    opacity: 0.78;
+    position: absolute;
+    right: 69.7px;
+    bottom: 14.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 2.3px;
+    height: 0.1px;
+    box-sizing: border-box;
+  }
+  .vector-2358 {
+    width: 2.3px;
+    height: 0.1px;
+  }
+  .vector-2359 {
+    position: absolute;
+    right: 68.7px;
+    bottom: 15.2px;
+    width: 2.5px;
+    height: 0.1px;
+  }
+  .container-2362 {
+    margin: 0px 0 6.4px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 5.2px;
+    box-sizing: border-box;
+  }
+  .container-2366 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2376 {
+    position: absolute;
+    top: 19.8px;
+    right: 45.2px;
+    width: 169.7px;
+    height: 118.3px;
+  }
+  .container-2384 {
+    margin: 24px 0.2px 62.8px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 38px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2389 {
+    margin: 1.9px 3.3px 1px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 13.2px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2390 {
+    position: relative;
+    margin: 0 3.8px;
+    padding-top: 0px;
+    width: 101.6px;
+    height: 4px;
+    box-sizing: border-box;
+  }
+  .container-2399 {
+    position: absolute;
+    right: 28.2px;
+    bottom: 59.9px;
+    width: 10.2px;
+    height: 5.7px;
+  }
+  .container-2403 {
+    margin: 77.8px 0 12.5px 0;
+    width: 20.1px;
+    height: 57.7px;
+  }
+  .container-2407 {
+    margin-right: 6.4px;
+    width: 11.6px;
+    height: 22.4px;
+  }
+  .container-2409 {
+    position: relative;
+    margin: 1px 0 44.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 32.3px;
+    height: 45.6px;
+    box-sizing: border-box;
+  }
+  .container-2411 {
+    margin-bottom: 0px;
+    width: 43.3px;
+    height: 14.1px;
+  }
+  .container-2412 {
+    margin: 0 0 7.2px 1px;
+    display: flex;
+    flex-direction: row;
+    width: 28.7px;
+    box-sizing: border-box;
+  }
+  .container-2413 {
+    margin: 0 4.6px 1.6px 4.6px;
+    align-self: flex-start;
+    width: 5.4px;
+    height: 4.7px;
+  }
+  .container-2424 {
+    position: relative;
+    margin: 0 1.4px 0 2.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0px 0;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2430 {
+    position: relative;
+    margin: 0px 0.2px 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2431 {
+    position: relative;
+    margin-left: 0.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0.2px;
+    width: 29.4px;
+    height: 6.5px;
+    box-sizing: border-box;
+  }
+  .container-2432 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2435 {
+    margin: 0 13.3px;
+    width: 9.7px;
+    height: 4.5px;
+  }
+  .container-2441 {
+    position: relative;
+    margin: 0 12.5px 0.1px 12.5px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 88.7px;
+    box-sizing: border-box;
+  }
+  .container-2458 {
+    margin: 0 0.9px 2.2px 0;
+    width: 8.8px;
+    height: 18.2px;
+  }
+  .container-2462 {
+    position: absolute;
+    left: 2px;
+    top: 3.3px;
+    width: 24.2px;
+    height: 5.2px;
+  }
+  .container-2467 {
+    position: absolute;
+    left: 48.8px;
+    bottom: 43.2px;
+    width: 39.4px;
+    height: 44.7px;
+  }
+  .container-2469 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2472 {
+    margin-right: 2.8px;
+    width: 4.4px;
+    height: 25.1px;
+  }
+  .container-2475 {
+    position: absolute;
+    left: 12.8px;
+    top: 63.6px;
+    width: 10px;
+    height: 7.4px;
+  }
+  .container-2479 {
+    position: relative;
+    margin: 0 3.7px 0 0.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2482 {
+    margin-left: 1.5px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    width: 15px;
+    box-sizing: border-box;
+  }
+  .container-2494 {
+    position: absolute;
+    top: 43.2px;
+    right: 40.7px;
+    width: 3.8px;
+    height: 10.8px;
+  }
+  .container-2495 {
+    margin-left: 7.2px;
+    width: 25.5px;
+    height: 21.5px;
+  }
+  .container-2496 {
+    position: relative;
+    margin: 0 6.3px 3.9px 0;
+    display: flex;
+    flex-direction: row;
+    width: 22.6px;
+    box-sizing: border-box;
+  }
+  .container-2498 {
+    margin: 0 5.9px 26.7px 1.3px;
+    width: 21.9px;
+    height: 29.1px;
+  }
+  .container-2507 {
+    position: absolute;
+    left: 102.4px;
+    top: 0px;
+    width: 26.6px;
+    height: 26.6px;
+  }
+  .container-2509 {
+    margin: 0 1px 0 3.1px;
+    display: flex;
+    flex-direction: row;
+    width: 25.4px;
+    box-sizing: border-box;
+  }
+  .container-2515 {
+    width: 4.1px;
+    height: 20.3px;
+  }
+  .container-2518 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 0.1px;
+    width: 4.7px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2524 {
+    display: flex;
+    flex-direction: row;
+    width: 31.5px;
+    box-sizing: border-box;
+  }
+  .container-2525 {
+    margin: 0 2px 0 15px;
+    width: 6.5px;
+    height: 1.8px;
+  }
+  .container-2526 {
+    margin: 0 4px 6.2px 0;
+    width: 3.6px;
+    height: 2.6px;
+  }
+  .container-2529 {
+    margin-top: 25.2px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 43.4px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2533 {
+    margin: 0 1.5px 0 5.7px;
+    display: flex;
+    flex-direction: row;
+    width: 40.4px;
+    box-sizing: border-box;
+  }
+  .container-2538 {
+    position: relative;
+    margin-bottom: 0.1px;
+    display: flex;
+    flex-direction: column;
+    padding-right: 0.6px;
+    width: 30.5px;
+    box-sizing: border-box;
+  }
+  .container-2540 {
+    position: absolute;
+    left: 50%;
+    bottom: 2.4px;
+    translate: -50% 0;
+    width: 201.2px;
+    height: 133.1px;
+  }
+  .container-2543 {
+    margin: 0 12.4px 0px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 29.3px;
+    box-sizing: border-box;
+  }
+  .container-2549 {
+    position: relative;
+    padding: 18.4px 0 24px 0;
+    width: 167.7px;
+    box-sizing: border-box;
+  }
+  .container-2552 {
+    position: relative;
+    width: 15.6px;
+    height: 12.8px;
+  }
+  .container-2553 {
+    margin: 29.6px 7.3px 54.4px 0;
+    width: 35.6px;
+    height: 64.1px;
+  }
+  .container-2557 {
+    position: relative;
+    margin: 0 3.8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2560 {
+    margin: 0 18.2px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    width: 37.4px;
+    box-sizing: border-box;
+  }
+  .container-2575 {
+    margin-right: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 12px);
+    box-sizing: border-box;
+  }
+  .container-2581 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    width: 80.8px;
+    height: 119px;
+  }
+  .container-2583 {
+    margin-bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    width: 122.3px;
+    box-sizing: border-box;
+  }
+  .container-2594 {
+    position: absolute;
+    right: 0px;
+    bottom: 0.2px;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2595 {
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 56.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2597 {
+    position: absolute;
+    right: 2.2px;
+    bottom: 0.9px;
+    width: 50.5px;
+    height: 72.1px;
+  }
+  .container-2599 {
+    position: absolute;
+    left: 9.3px;
+    top: 34.7px;
+    width: 4.5px;
+    height: 5.7px;
+  }
+  .container-2604 {
+    margin: 0 0.2px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 1.9px;
+    box-sizing: border-box;
+  }
+  .container-2605 {
+    margin: 0 1.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 197.5px;
+    box-sizing: border-box;
+  }
+  .container-2612 {
+    margin: 0 10.8px;
+    display: flex;
+    flex-direction: row;
+    width: 15.7px;
+    box-sizing: border-box;
+  }
+  .container-2619 {
+    position: absolute;
+    left: 4.2px;
+    bottom: 8.2px;
+    width: 42.3px;
+    height: 60.6px;
+  }
+  .container-2626 {
+    margin-top: 15.2px;
+    display: flex;
+    flex-direction: column;
+    width: 29.5px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2634 {
+    position: relative;
+    margin-right: 6.8px;
+    width: 55px;
+    height: 61.4px;
+  }
+  .container-2635 {
+    width: 4.4px;
+    height: 25.1px;
+  }
+  .container-2637 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2647 {
+    position: relative;
+    margin: 0 3.1px 0px 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 271.3px;
+    box-sizing: border-box;
+  }
+  .container-2649 {
+    position: relative;
+    margin-bottom: 4.8px;
+    align-self: flex-start;
+    width: 9.3px;
+    height: 9.7px;
+  }
+  .container-2651 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 0.6px;
+    width: 81.6px;
+    height: 87.1px;
+    box-sizing: border-box;
+  }
+  .container-2652 {
+    margin: 0 7.3px 5.9px 18.5px;
+    width: 3.4px;
+    height: 2.5px;
+  }
+  .container-2663 {
+    margin: 0 13.5px 4.3px 13.5px;
+    display: flex;
+    flex-direction: row;
+    width: 9.9px;
+    box-sizing: border-box;
+  }
+  .container-2665 {
+    margin: 0 11.4px 0.3px 11.4px;
+    align-self: flex-start;
+    width: 19.8px;
+    height: 17px;
+  }
+  .container-2666 {
+    position: absolute;
+    left: 27.8px;
+    bottom: 2.3px;
+    width: 73.5px;
+    height: 35.1px;
+  }
+  .container-2672 {
+    position: absolute;
+    left: 2.4px;
+    bottom: 5.1px;
+    width: 24.3px;
+    height: 0.2px;
+  }
+  .container-2673 {
+    margin: 0 0 10.5px 1.3px;
+    width: 27px;
+    height: 27px;
+  }
+  .container-2680 {
+    position: relative;
+    margin-top: 0.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0 10px 12.7px 10px;
+    width: 51.9px;
+    height: 18.9px;
+    box-sizing: border-box;
+  }
+  .container-2684 {
+    margin-bottom: 39.8px;
+    width: 24px;
+    height: 24px;
+  }
+  .container-2685 {
+    margin: 0 8.9px 1.9px 0;
+    width: 8.1px;
+    height: 5.6px;
+  }
+  .container-2690 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 267.9px;
+    box-sizing: border-box;
+  }
+  .container-2692 {
+    margin-bottom: 1.5px;
+    align-self: flex-end;
+    width: 28.8px;
+    height: 24.7px;
+  }
+  .container-2693 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2697 {
+    align-self: flex-start;
+    width: 3.8px;
+    height: 3.8px;
+  }
+  .container-2701 {
+    margin: 5.1px 0.7px 0 0;
+    width: 13.7px;
+    height: 14px;
+  }
+  .container-2709 {
+    margin-left: 1.7px;
+    width: 3.7px;
+    height: 3.9px;
+  }
+  .container-2713 {
+    position: absolute;
+    left: 53.9px;
+    bottom: 4.2px;
+    width: 24.6px;
+    height: 6.1px;
+  }
+  .container-2720 {
+    margin: 0 14.9px 3.3px 0;
+    width: 6px;
+    height: 8.7px;
+  }
+  .container-2726 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2727 {
+    position: absolute;
+    right: 37px;
+    bottom: 0.4px;
+    width: 8px;
+    height: 14.2px;
+  }
+  .container-2729 {
+    margin-bottom: 10.2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 17.1px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2730 {
+    margin: 0 2.6px 0 15.7px;
+    width: 3.5px;
+    height: 8.1px;
+  }
+  .container-2737 {
+    margin: 0.2px 0.6px 6.5px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 4.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2739 {
+    position: absolute;
+    left: 50.2px;
+    bottom: 0px;
+    width: 140.2px;
+    height: 130.1px;
+  }
+  .container-2740 {
+    margin-bottom: 6.7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 4.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2744 {
+    position: relative;
+    margin-right: 4.4px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 122.3px;
+    box-sizing: border-box;
+  }
+  .container-2746 {
+    position: relative;
+    margin-right: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 83.1px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2749 {
+    position: absolute;
+    right: 11.2px;
+    bottom: 3.7px;
+    width: 6.5px;
+    height: 1.8px;
+  }
+  .container-2752 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2762 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2764 {
+    margin: 0 8.8px;
+    width: 33.5px;
+    height: 28px;
+  }
+  .container-2772 {
+    position: absolute;
+    left: 9.9px;
+    bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2774 {
+    margin: 25.3px 0 1.1px 0;
+    width: 6.3px;
+    height: 9.4px;
+  }
+  .container-2779 {
+    margin-left: 3.5px;
+    display: flex;
+    flex-direction: row;
+    width: 38.8px;
+    box-sizing: border-box;
+  }
+  .container-2783 {
+    position: relative;
+    width: 48.7px;
+    height: 67.7px;
+  }
+  .container-2784 {
+    margin: 1.4px 0 101.7px 0;
+    display: flex;
+    flex-direction: column;
+    width: 32.6px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2785 {
+    margin: 0 0.2px 0.2px 11.2px;
+    display: flex;
+    flex-direction: row;
+    width: 24px;
+    box-sizing: border-box;
+  }
+  .container-2786 {
+    margin: 0 15.8px 36.7px 12.2px;
+    width: 20.6px;
+    height: 25.2px;
+  }
+  .container-2793 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 14.8px 0 13.7px;
+    width: 52.2px;
+    height: 91.4px;
+    box-sizing: border-box;
+  }
+  .container-2798 {
+    position: relative;
+    margin: 0.1px 2.8px 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 35.7px;
+    height: 35.7px;
+    box-sizing: border-box;
+  }
+  .container-2801 {
+    position: relative;
+    margin: 0 8.8px 0 3.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2802 {
+    position: absolute;
+    left: 9.3px;
+    bottom: 12.7px;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-2808 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0.1px;
+    width: 29.4px;
+    height: 6.4px;
+    box-sizing: border-box;
+  }
+  .container-2810 {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 46.7px;
+    height: 3.9px;
+  }
+  .container-2811 {
+    position: absolute;
+    left: 16.7px;
+    bottom: 49.5px;
+    width: 10.6px;
+    height: 5.4px;
+  }
+  .container-2813 {
+    position: absolute;
+    right: 39.7px;
+    bottom: 19.2px;
+    width: 1.3px;
+    height: 1.1px;
+  }
+  .container-2815 {
+    position: relative;
+    margin: 0 11.7px 0 0.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2822 {
+    margin: 0 3.3px 0 0.4px;
+    display: flex;
+    flex-direction: row;
+    width: 25.8px;
+    box-sizing: border-box;
+  }
+  .container-2824 {
+    position: relative;
+    margin: 0 2.1px 7px 0;
+    width: 2.5px;
+    height: 19.3px;
+  }
+  .container-2825 {
+    position: relative;
+    margin: 0 5.6px 9.6px 3.8px;
+    width: 31.9px;
+    height: 37.9px;
+  }
+  .container-2828 {
+    margin: 6.3px 1.2px 1.8px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 28.4px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2833 {
+    position: relative;
+    width: 26.8px;
+    height: 14.2px;
+  }
+  .container-2834 {
+    margin-bottom: 10.7px;
+    width: 19.8px;
+    height: 19.8px;
+  }
+  .container-2844 {
+    margin: 0 4px 31.8px 0;
+    width: 2.7px;
+    height: 4px;
+  }
+  .container-2847 {
+    margin-bottom: 6px;
+    align-self: flex-end;
+    width: 13.2px;
+    height: 8.7px;
+  }
+  .container-2856 {
+    margin: 0 22px 7.8px 0;
+    display: flex;
+    flex-direction: row;
+    width: 25.2px;
+    box-sizing: border-box;
+  }
+  .container-2858 {
+    position: relative;
+    margin: 0.2px 10.5px 0.2px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    flex-basis: 33.2px;
+    box-sizing: border-box;
+  }
+  .container-2865 {
+    display: flex;
+    flex-direction: row;
+    width: 104.9px;
+    box-sizing: border-box;
+  }
+  .container-2867 {
+    margin: 0 0px 0 1.4px;
+    display: flex;
+    flex-direction: row;
+    width: 81.7px;
+    box-sizing: border-box;
+  }
+  .container-2871 {
+    margin: 0 2.8px 2.3px 1.5px;
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 4.4px);
+    box-sizing: border-box;
+  }
+  .container-2872 {
+    margin: 0 2.3px 0 3.4px;
+    display: flex;
+    flex-direction: row;
+    width: 23.8px;
+    box-sizing: border-box;
+  }
+  .container-2876 {
+    position: relative;
+    width: 46.7px;
+    height: 3.9px;
+  }
+  .container-2883 {
+    position: relative;
+    margin: 0 2.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2887 {
+    margin: 0 0 0px 13.2px;
+    width: 62.9px;
+    height: 1.2px;
+  }
+  .container-2888 {
+    position: absolute;
+    left: 2.5px;
+    top: 53px;
+    width: 32.3px;
+    height: 31.2px;
+  }
+  .container-2889 {
+    margin: 0 0.1px 0.2px 2.5px;
+    display: flex;
+    flex-direction: row;
+    width: 1.8px;
+    box-sizing: border-box;
+  }
+  .container-2891 {
+    margin: 49.6px 1.8px 18.7px 0;
+    display: flex;
+    flex-direction: column;
+    width: 35.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2892 {
+    margin: 0 25.8px 16.9px 25.8px;
+    align-self: flex-start;
+    width: 5.7px;
+    height: 25.5px;
+  }
+  .container-2902 {
+    margin: 16.4px 0 11.6px 0;
+    display: flex;
+    flex-direction: column;
+    width: 48.1px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2904 {
+    position: relative;
+    margin: 1.7px 0 0.9px 0;
+    width: 55px;
+    height: 98.8px;
+  }
+  .container-2905 {
+    width: 7.7px;
+    height: 7.7px;
+  }
+  .container-2914 {
+    margin: 4.1px 0 0.6px 0;
+    width: 55.3px;
+    height: 76.8px;
+  }
+  .container-2919 {
+    margin: 35px 0 0px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 48.7px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2927 {
+    width: 45.8px;
+    height: 16.7px;
+  }
+  .container-2928 {
+    position: absolute;
+    right: 51.4px;
+    bottom: 19.5px;
+    width: 36.7px;
+    height: 26.5px;
+  }
+  .container-2929 {
+    margin: 0 0 11.4px 11.4px;
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 11.4px);
+    box-sizing: border-box;
+  }
+  .container-2934 {
+    margin-bottom: 10.1px;
+    align-self: flex-start;
+    width: 12.2px;
+    height: 7.6px;
+  }
+  .container-2935 {
+    margin: 2.6px 5.4px 0.3px 0;
+    width: 0.4px;
+    height: 2px;
+  }
+  .container-2936 {
+    margin: 0 2.1px 0 7.4px;
+    display: flex;
+    flex-direction: row;
+    width: 55.8px;
+    box-sizing: border-box;
+  }
+  .container-2937 {
+    position: absolute;
+    top: 0px;
+    right: 10.5px;
+    width: 40.3px;
+    height: 58.4px;
+  }
+  .container-2939 {
+    margin: 0.3px 0px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 6.6px;
+    box-sizing: border-box;
+  }
+  .container-2940 {
+    width: 15.8px;
+    height: 18.5px;
+  }
+  .container-2944 {
+    margin: 0 0.3px 0 0.5px;
+    display: flex;
+    flex-direction: row;
+    width: 12.4px;
+    box-sizing: border-box;
+  }
+  .container-2946 {
+    margin: 0 0 0.8px 17px;
+    align-self: center;
+    width: 2px;
+    height: 0.7px;
+  }
+  .container-2947 {
+    margin: 0 12px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 52.2px;
+    box-sizing: border-box;
+  }
+  .container-2952 {
+    margin-bottom: 8.3px;
+    width: 29.3px;
+    height: 24px;
+  }
+  .container-2954 {
+    position: relative;
+    margin: 0 11.8px 0px 0.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-2957 {
+    position: relative;
+    width: 35.7px;
+    height: 35.7px;
+  }
+  .container-2972 {
+    margin: 5.9px 0 0px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 167.7px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-2980 {
+    position: absolute;
+    left: 50%;
+    bottom: 25px;
+    translate: -50% 0;
+    width: 31.2px;
+    height: 37.6px;
+  }
+  .container-2983 {
+    position: absolute;
+    left: 18px;
+    bottom: 90.2px;
+    width: 14.5px;
+    height: 7.7px;
+  }
+  .container-2986 {
+    margin: 0px 11.6px 0 0;
+    width: 43.3px;
+    height: 14.1px;
+  }
+  .container-2991 {
+    width: 38px;
+    height: 65.7px;
+  }
+  .container-2998 {
+    position: absolute;
+    top: 43.8px;
+    right: 1.3px;
+    width: 29.2px;
+    height: 25.1px;
+  }
+  .container-3005 {
+    margin: 0 0.1px 0 17.7px;
+    width: 17.5px;
+    height: 12px;
+  }
+  .container-3007 {
+    margin: 0 7.8px 74.6px 0;
+    width: 30px;
+    height: 73.5px;
+  }
+  .container-3008 {
+    position: absolute;
+    left: 21.3px;
+    bottom: 77.9px;
+    width: 14.5px;
+    height: 9px;
+  }
+  .container-3010 {
+    position: absolute;
+    right: 70.2px;
+    bottom: 0.2px;
+    width: 47.4px;
+    height: 17px;
+  }
+  .container-3011 {
+    position: relative;
+    margin-top: 0.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 17.8px 0 0.8px;
+    width: 18.8px;
+    height: 6.2px;
+    box-sizing: border-box;
+  }
+  .container-3012 {
+    margin: 16px 21.4px 61.8px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 79.8px;
+    box-sizing: border-box;
+  }
+  .container-3020 {
+    margin-left: 1.5px;
+    display: flex;
+    flex-direction: row;
+    width: 81.6px;
+    box-sizing: border-box;
+  }
+  .container-3030 {
+    margin-top: 12.2px;
+    width: 4.1px;
+    height: 20.3px;
+  }
+  .container-3034 {
+    position: relative;
+    margin: 0 9.9px 0 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-3044 {
+    position: relative;
+    margin-bottom: 2.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 12.3px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .container-3047 {
+    position: relative;
+    margin: 14.1px 2.7px 87.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15.3px;
+    height: 20.6px;
+    box-sizing: border-box;
+  }
+  .container-3051 {
+    margin: 0 6.6px 3.8px 6.6px;
+    width: 4px;
+    height: 4px;
+  }
+  .container-3053 {
+    margin: 4.9px 0 2.1px 0;
+    width: 6.7px;
+    height: 1.8px;
+  }
+  .container-3054 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-3057 {
+    width: 43.4px;
+    height: 41.3px;
+  }
+  .container-3059 {
+    position: relative;
+    width: 23.8px;
+    height: 48.5px;
+  }
+  .container-3066 {
+    position: relative;
+    margin: 0 0.5px 1.7px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 26.8px;
+    height: 14.2px;
+    box-sizing: border-box;
+  }
+  .container-3070 {
+    margin-left: 1.3px;
+    width: 3.3px;
+    height: 10.4px;
+  }
+  .container-3071 {
+    margin-left: 10.4px;
+    width: 31px;
+    height: 16.6px;
+  }
+  .container-3072 {
+    position: absolute;
+    left: 0.1px;
+    bottom: 5.3px;
+    width: 24.2px;
+    height: 5.2px;
+  }
+  .container-3074 {
+    margin-right: 2.7px;
+    width: 3.2px;
+    height: 18.1px;
+  }
+  .container-3077 {
+    position: relative;
+    margin: 14px 2.1px 11.7px 0;
+    width: 19.8px;
+    height: 65.2px;
+  }
+  .container-3079 {
+    margin-bottom: 0.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 7.8px;
+    box-sizing: border-box;
+  }
+  .container-3087 {
+    margin-bottom: 0.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 57.3px;
+    box-sizing: border-box;
+  }
+  .container-3090 {
+    position: absolute;
+    left: 7px;
+    bottom: 6.4px;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-3091 {
+    position: absolute;
+    right: 47.7px;
+    bottom: 14.1px;
+    width: 46.7px;
+    height: 3.9px;
+  }
+  .container-3094 {
+    position: relative;
+    margin: 0 0.5px 0 4.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-right: 0.1px;
+    width: 24.5px;
+    height: 75.2px;
+    box-sizing: border-box;
+  }
+  .container-3097 {
+    align-self: flex-start;
+    width: 25.8px;
+    height: 25.8px;
+  }
+  .container-3108 {
+    margin: 0 1.2px 0 3.3px;
+    display: flex;
+    flex-direction: row;
+    width: 24.9px;
+    box-sizing: border-box;
+  }
+  .container-3109 {
+    margin: 60.2px 4.6px 9.9px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 23.5px;
+    box-sizing: border-box;
+  }
+  .container-3112 {
+    margin: 0 2.2px 2.6px 2.3px;
+    width: 12.5px;
+    height: 24.7px;
+  }
+  .container-3114 {
+    width: 5.9px;
+    height: 7.5px;
+  }
+  .container-3117 {
+    margin: 22px 4.3px 25.2px 0;
+    width: 20.6px;
+    height: 20.6px;
+  }
+  .container-3119 {
+    position: relative;
+    margin-top: 5.3px;
+    width: 14.6px;
+    height: 15.1px;
+  }
+  .container-3121 {
+    margin: 0 3.4px 0 8.8px;
+    display: flex;
+    flex-direction: row;
+    width: 53.1px;
+    box-sizing: border-box;
+  }
+  .container-3126 {
+    position: absolute;
+    right: 90.8px;
+    bottom: 8.6px;
+    width: 11.3px;
+    height: 54.9px;
+  }
+  .container-3131 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-3135 {
+    margin: 0 7.1px 1.2px 7.1px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 11.5px;
+    box-sizing: border-box;
+  }
+  .container-3139 {
+    position: absolute;
+    right: 15.6px;
+    bottom: 16.6px;
+    width: 1.1px;
+    height: 1.1px;
+  }
+  .container-3142 {
+    position: relative;
+    margin: 8.6px 20.9px 3.6px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 78.2px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3148 {
+    margin: 0 5.4px;
+    display: flex;
+    flex-direction: row;
+    width: 98.2px;
+    box-sizing: border-box;
+  }
+  .container-3150 {
+    margin: 25.8px 0 1.5px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 4.6px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3151 {
+    position: relative;
+    margin: 0 0.2px 0.1px 0;
+    padding: 0 0.9px;
+    width: 23.9px;
+    height: 6.2px;
+    box-sizing: border-box;
+  }
+  .container-3154 {
+    position: absolute;
+    left: 0px;
+    bottom: 0.9px;
+    width: 49px;
+    height: 68.4px;
+  }
+  .container-3161 {
+    position: absolute;
+    right: 20.7px;
+    bottom: 52.2px;
+    width: 26px;
+    height: 21.7px;
+  }
+  .container-3162 {
+    margin: 65.9px 2.7px 16.9px 0;
+    width: 5.5px;
+    height: 8.1px;
+  }
+  .container-3164 {
+    margin: 20.6px 3px 97.9px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 7.4px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3165 {
+    position: relative;
+    width: 32.3px;
+    height: 45.6px;
+  }
+  .container-3168 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-3169 {
+    position: relative;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .container-3172 {
+    margin: 0 0.6px 2.5px 11.3px;
+    display: flex;
+    flex-direction: row;
+    width: 23.5px;
+    box-sizing: border-box;
+  }
+  .container-3179 {
+    margin-bottom: 3.8px;
+    width: 22.3px;
+    height: 25.7px;
+  }
+  .container-3185 {
+    position: relative;
+    margin-right: 28.9px;
+    display: flex;
+    flex-direction: column;
+    width: 76.1px;
+    box-sizing: border-box;
+  }
+  .container-3190 {
+    margin-right: 2px;
+    width: 3.2px;
+    height: 18.1px;
+  }
+  .container-3192 {
+    position: absolute;
+    left: 12.9px;
+    top: 11.3px;
+    width: 9px;
+    height: 12.7px;
+  }
+  .container-3197 {
+    margin: 0 10.4px 0 0.4px;
+    display: flex;
+    flex-direction: row;
+    width: 16.4px;
+    box-sizing: border-box;
+  }
+  .container-3201 {
+    position: relative;
+    width: 15.3px;
+    height: 20.6px;
+  }
+  .container-3203 {
+    margin: 0 0.9px 46.7px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 61.9px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3208 {
+    position: relative;
+    width: 10.6px;
+    height: 4.9px;
+  }
+  .container-3212 {
+    margin-right: 3.7px;
+    width: 4.4px;
+    height: 25.1px;
+  }
+  .container-3216 {
+    width: 3.2px;
+    height: 18.1px;
+  }
+  .container-3218 {
+    margin: 0 8.1px 7.3px 11px;
+    width: 4.4px;
+    height: 3.1px;
+  }
+  .container-3219 {
+    position: absolute;
+    top: 6.2px;
+    right: 1.7px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .container-3221 {
+    position: absolute;
+    top: 12.8px;
+    right: 0px;
+    width: 44.1px;
+    height: 63.2px;
+  }
+  .container-3222 {
+    position: relative;
+    margin: 0 8.1px 8.5px 3.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 267.9px;
+    box-sizing: border-box;
+  }
+  .container-3223 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-3227 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-3230 {
+    position: relative;
+    margin: 0 0 1.2px 0.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 6.9px;
+    height: 8.5px;
+    box-sizing: border-box;
+  }
+  .container-3232 {
+    margin-bottom: 2.1px;
+    width: 13.2px;
+    height: 13px;
+  }
+  .container-3236 {
+    position: absolute;
+    left: 83.2px;
+    bottom: 0px;
+    width: 21.9px;
+    height: 8.5px;
+  }
+  .container-3239 {
+    position: absolute;
+    left: 128.5px;
+    bottom: 0px;
+    width: 6.1px;
+    height: 5.4px;
+  }
+  .container-3242 {
+    margin: 0 11.4px 0px 11.4px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-end;
+    width: 45.9px;
+    box-sizing: border-box;
+  }
+  .container-3243 {
+    margin: 4.4px 14.3px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25.5px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3248 {
+    margin: 18.1px 0 94.9px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 21.8px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3250 {
+    margin: 4.2px 0 2.3px 0;
+    width: 2.7px;
+    height: 12px;
+  }
+  .container-3255 {
+    width: 53.1px;
+    height: 81.4px;
+  }
+  .container-3257 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 10.6px;
+    height: 4.9px;
+    box-sizing: border-box;
+  }
+  .container-3268 {
+    margin: 1.4px 2.9px 1.7px 0;
+    width: 3.9px;
+    height: 3.2px;
+  }
+  .container-3271 {
+    margin-right: 2.4px;
+    display: flex;
+    flex-direction: column;
+    width: 47.5px;
+    box-sizing: border-box;
+  }
+  .container-3273 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 3.3px 0.7px 3.6px;
+    width: 7.2px;
+    height: 13px;
+    box-sizing: border-box;
+  }
+  .container-3275 {
+    margin: 0 4.6px 0 10px;
+    display: flex;
+    flex-direction: row;
+    width: 50.7px;
+    box-sizing: border-box;
+  }
+  .container-3282 {
+    margin: 0 0 2.1px 12.5px;
+    display: flex;
+    flex-direction: row;
+    width: 16.2px;
+    box-sizing: border-box;
+  }
+  .container-3289 {
+    margin: 0 6.6px 4.2px 6.6px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 24.3px;
+    box-sizing: border-box;
+  }
+  .container-3296 {
+    margin: 0 4px 0.3px 0;
+    display: flex;
+    flex-direction: row;
+    width: 25.9px;
+    box-sizing: border-box;
+  }
+  .container-3300 {
+    margin-left: 6.3px;
+    width: 1.5px;
+    height: 0.3px;
+  }
+  .container-3309 {
+    margin: 0 1.3px 0.5px 0;
+    width: 10.6px;
+    height: 8.5px;
+  }
+  .container-3318 {
+    margin: 17.1px 0 0.4px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 41.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3321 {
+    position: absolute;
+    top: 55.5px;
+    right: 19.2px;
+    width: 5.6px;
+    height: 9.8px;
+  }
+  .container-3325 {
+    position: relative;
+    margin-right: 1.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-3332 {
+    margin: 0 12.6px 6.1px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30.6px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3338 {
+    margin: 0 17.6px;
+    display: flex;
+    flex-direction: row;
+    width: 6.1px;
+    box-sizing: border-box;
+  }
+  .container-3339 {
+    position: relative;
+    margin: 139px 0.6px 1px 0;
+    width: 4.1px;
+    height: 20.3px;
+  }
+  .container-3342 {
+    width: 23.5px;
+    height: 35.5px;
+  }
+  .container-3344 {
+    position: absolute;
+    top: 50.3px;
+    right: 25.7px;
+    width: 5.3px;
+    height: 19.4px;
+  }
+  .container-3346 {
+    position: absolute;
+    left: 26.7px;
+    top: 0px;
+    width: 5.5px;
+    height: 37.1px;
+  }
+  .container-3347 {
+    position: absolute;
+    right: 10.6px;
+    bottom: 39.6px;
+    width: 4.9px;
+    height: 3.2px;
+  }
+  .container-3350 {
+    margin: 5.1px 7.3px 1.2px 0;
+    width: 5.4px;
+    height: 8px;
+  }
+  .container-3351 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-3356 {
+    position: absolute;
+    right: 49.2px;
+    bottom: 0px;
+    width: 43.3px;
+    height: 14.1px;
+  }
+  .container-3361 {
+    margin-right: 16.9px;
+    width: 11.4px;
+    height: 36.7px;
+  }
+  .container-3363 {
+    position: relative;
+    margin: 0px 0.2px 0 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-3366 {
+    position: absolute;
+    left: 7.9px;
+    top: 6px;
+    width: 6.2px;
+    height: 10.3px;
+  }
+  .container-3367 {
+    position: relative;
+    width: 6.9px;
+    height: 8.5px;
+  }
+  .container-3370 {
+    margin: 10.7px 8px 0.3px 0;
+    width: 42.5px;
+    height: 53px;
+  }
+  .container-3371 {
+    position: absolute;
+    right: 62.5px;
+    bottom: 49.3px;
+    width: 24.1px;
+    height: 51px;
+  }
+  .container-3373 {
+    margin-right: 8.7px;
+    display: flex;
+    flex-direction: row;
+    width: 56.5px;
+    box-sizing: border-box;
+  }
+  .container-3376 {
+    position: absolute;
+    left: 1.6px;
+    bottom: 61.5px;
+    width: 12.1px;
+    height: 8.9px;
+  }
+  .container-3378 {
+    margin-top: 102.7px;
+    width: 11px;
+    height: 45.4px;
+  }
+  .container-3379 {
+    margin: 0 2.3px 0 6.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: calc(100% - 8.4px);
+    box-sizing: border-box;
+  }
+  .container-3382 {
+    margin: 0 0.3px 0 0.5px;
+    display: flex;
+    flex-direction: row;
+    width: 121.5px;
+    box-sizing: border-box;
+  }
+  .container-3390 {
+    position: absolute;
+    left: 54.8px;
+    bottom: 32.3px;
+    width: 34.3px;
+    height: 17.1px;
+  }
+  .container-3391 {
+    position: absolute;
+    left: 2.5px;
+    bottom: 0.1px;
+    width: 24.2px;
+    height: 5.2px;
+  }
+  .container-3395 {
+    border-radius: 8.3px;
+    background: #00CCE4;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1.4px 11.7px 1.4px 0;
+    width: 16.5px;
+    height: 16.5px;
+    box-sizing: border-box;
+  }
+  .container-3396 {
+    margin: 12.5px 5.4px 1.5px 0;
+    width: 6.2px;
+    height: 4.5px;
+  }
+  .container-3404 {
+    margin: 0px 3.1px 143px 0;
+    width: 16.3px;
+    height: 16.3px;
+  }
+  .container-3406 {
+    margin: 0 7.1px 1px 7.1px;
+    width: 16.2px;
+    height: 20.3px;
+  }
+  .container-3412 {
+    position: absolute;
+    right: 14.4px;
+    bottom: 38.5px;
+    width: 22.2px;
+    height: 11.7px;
+  }
+  .container-3415 {
+    position: absolute;
+    left: 0px;
+    bottom: 28.3px;
+    width: 16.9px;
+    height: 11.3px;
+  }
+  .container-3420 {
+    position: absolute;
+    right: 43.7px;
+    bottom: 11.2px;
+    width: 34.5px;
+    height: 39.6px;
+  }
+  .container-3426 {
+    position: relative;
+    width: 25.5px;
+    height: 22.6px;
+  }
+  .container-3429 {
+    position: relative;
+    margin: 0 9.4px 0 2.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 0px;
+    width: 29.4px;
+    height: 6.3px;
+    box-sizing: border-box;
+  }
+  .container-3435 {
+    margin: 66.7px 8.7px 10.8px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 22.3px;
+    box-sizing: border-box;
+  }
+  .container-3439 {
+    position: absolute;
+    right: 20.7px;
+    bottom: 35.3px;
+    width: 7.8px;
+    height: 7.4px;
+  }
+  .container-3448 {
+    margin: 0 0 8.6px 7.6px;
+    width: 30.6px;
+    height: 25.1px;
+  }
+  .container-3449 {
+    position: absolute;
+    right: 12.7px;
+    bottom: 0.2px;
+    width: 56.8px;
+    height: 79.3px;
+  }
+  .container-3450 {
+    width: 27.3px;
+    height: 5.8px;
+  }
+  .container-3451 {
+    position: absolute;
+    right: 2.5px;
+    bottom: 0.8px;
+    width: 50.4px;
+    height: 48.9px;
+  }
+  .container-3455 {
+    position: relative;
+    margin: 1.4px 26px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90.7px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3458 {
+    margin: 0 1.6px 6px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 27.3px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3461 {
+    margin: 0 1.6px 0 14.9px;
+    display: flex;
+    flex-direction: row;
+    width: 59.7px;
+    box-sizing: border-box;
+  }
+  .container-3463 {
+    position: absolute;
+    left: 111.8px;
+    top: 7px;
+    width: 7px;
+    height: 11.9px;
+  }
+  .container-3470 {
+    margin: 0 0.2px 6.4px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+    flex-grow: 1;
+    flex-basis: 5.2px;
+    box-sizing: border-box;
+  }
+  .container-3472 {
+    position: absolute;
+    right: 31.6px;
+    bottom: 0px;
+    width: 16.5px;
+    height: 74px;
+  }
+  .container-3476 {
+    margin: 0 0.4px 0 11.1px;
+    display: flex;
+    flex-direction: row;
+    width: 53.7px;
+    box-sizing: border-box;
+  }
+  .container-3479 {
+    margin-right: 4.3px;
+    width: 4.1px;
+    height: 20.3px;
+  }
+  .container-3482 {
+    margin: 0 8px;
+    align-self: flex-start;
+    width: 5.1px;
+    height: 3.3px;
+  }
+  .container-3485 {
+    margin: 2.8px 0.1px 1px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 4px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3491 {
+    position: absolute;
+    right: 73.7px;
+    bottom: 19.3px;
+    width: 13.1px;
+    height: 22.9px;
+  }
+  .container-3501 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding-right: 0.2px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .container-3502 {
+    margin: 0 1.6px 0 0.9px;
+    width: 4.9px;
+    height: 15px;
+  }
+  .container-3507 {
+    position: relative;
+    margin: 0 18.1px 0.1px 18.1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    width: 15.6px;
+    height: 12.8px;
+    box-sizing: border-box;
+  }
+  .container-3509 {
+    position: absolute;
+    left: 24.3px;
+    top: 39.2px;
+    width: 50px;
+    height: 57.2px;
+  }
+  .container-3521 {
+    width: 21.8px;
+    height: 40px;
+  }
+  .container-3524 {
+    position: relative;
+    width: 22.9px;
+    height: 22.9px;
+  }
+  .container-3526 {
+    margin: 0 3.8px 0 3.4px;
+    display: flex;
+    flex-direction: row;
+    width: calc(100% - 7.2px);
+    box-sizing: border-box;
+  }
+  .container-3527 {
+    position: absolute;
+    right: 33.9px;
+    bottom: 1.4px;
+    width: 4.6px;
+    height: 39.2px;
+  }
+  .container-3534 {
+    position: absolute;
+    left: 3.6px;
+    bottom: 6.9px;
+    width: 5px;
+    height: 11.6px;
+  }
+  .container-3539 {
+    position: relative;
+    margin-bottom: 3.5px;
+    width: 11.2px;
+    height: 5.1px;
+  }
+  .container-3540 {
+    position: absolute;
+    left: 95.5px;
+    bottom: 22px;
+    width: 32.1px;
+    height: 25px;
+  }
+  .container-3541 {
+    position: absolute;
+    left: 103.3px;
+    top: 19.6px;
+    width: 11.1px;
+    height: 7.9px;
+  }
+  .container-3543 {
+    margin-right: 19.8px;
+    display: flex;
+    flex-direction: row;
+    width: 63.4px;
+    box-sizing: border-box;
+  }
+  .container-3548 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-3554 {
+    margin: 29.6px 0 8.2px 0;
+    display: flex;
+    flex-direction: column;
+    width: 29.1px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3562 {
+    position: relative;
+    width: 81.6px;
+    height: 86.5px;
+  }
+  .container-3572 {
+    margin-bottom: 0.3px;
+    width: 2.3px;
+    height: 101.1px;
+  }
+  .container-3574 {
+    position: absolute;
+    right: 97.9px;
+    bottom: 0px;
+    width: 6.7px;
+    height: 9px;
+  }
+  .container-3576 {
+    position: relative;
+    width: 4.6px;
+    height: 6.3px;
+  }
+  .container-3578 {
+    margin-bottom: 0.1px;
+    width: 0.2px;
+    height: 6.2px;
+  }
+  .container-3580 {
+    position: relative;
+    margin-right: 2.8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    flex-basis: 22.2px;
+    box-sizing: border-box;
+  }
+  .container-3584 {
+    margin: 0 0 9.3px 13.2px;
+    width: 62.9px;
+    height: 2.5px;
+  }
+  .container-3588 {
+    position: relative;
+    width: 29.4px;
+    height: 6.3px;
+  }
+  .container-3589 {
+    box-shadow: 4px 4px 16px -2px rgba(115, 138, 140, 0.2);
+    background: #FFFFFF;
+    position: absolute;
+    left: 50%;
+    top: 288px;
+    translate: -50% 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 9.5px 9.4px 6.5px 10.4px;
+    box-sizing: border-box;
+  }
+  .container-3598 {
+    margin: 0 6px 0.8px 6px;
+    align-self: flex-start;
+    width: 16.2px;
+    height: 11.3px;
+  }
+  .container-3602 {
+    margin: 0.9px 0 3px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 5.4px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .container-3607 {
+    position: relative;
+    margin: 0 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding: 0px 0 2px 0;
+    width: 17.7px;
+    height: 2.2px;
+    box-sizing: border-box;
+  }
+  .container-3608 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    width: 7.2px;
+    height: 13px;
+  }

@@ -1,0 +1,1621 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .container-2 {
+    background: #EFFAFB;
+    position: absolute;
+    left: 112px;
+    top: 60px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0 0 11px;
+    width: 169px;
+    height: 110px;
+    box-sizing: border-box;
+  }
+  .container-3 {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1235px;
+    box-sizing: border-box;
+  }
+  .container-4 {
+    margin: 0 0 1px 0.4px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-5 {
+    margin: 0 4px 38px 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-self: flex-start;
+    width: 134.5px;
+    box-sizing: border-box;
+  }
+  .container-6 {
+    background: #EFFAFB;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0 42px 11px;
+    box-sizing: border-box;
+  }
+  .container-7 {
+    margin: 0 192.9px 97px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .container-8 {
+    margin-bottom: 42.3px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: 93px;
+    box-sizing: border-box;
+  }
+  .container-9 {
+    background: #EFFAFB;
+    position: relative;
+    margin: 1px 187px 120px 0;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0 28px 11px;
+    width: 163px;
+    box-sizing: border-box;
+  }
+  .home {
+    background: #F5FEFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .browser-url-controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .toolbar-url-controls {
+    box-shadow: inset 0px -1px 0px 0px #DADCE0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 5px 20.3px 5px 14px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .right-locked-icons {
+    margin: 3px 0;
+    display: flex;
+    flex-direction: row;
+    width: 44.7px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-more {
+    margin: 5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 3px;
+    height: 12px;
+    box-sizing: border-box;
+  }
+  .image-user-profile {
+    border-radius: 11px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/1a657b9367914784545d826b5756c6c39d258fe7?Expires=1712268274&KeyName=fn12-cdn&Signature=iEM8fb6d69ybDK6R_8sNw8hZoSo=');
+    margin-right: 19.7px;
+    width: 22px;
+    height: 22px;
+  }
+  .url-bar {
+    border-radius: 14px;
+    background: #F1F3F4;
+    position: relative;
+    margin-right: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 6px 12px 6px 13px;
+    width: 1225px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-favorite {
+    margin: 2px 0 2.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 11.5px;
+    box-sizing: border-box;
+  }
+  .url-text {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .domain-com {
+    margin-right: 0.4px;
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    color: #202124;
+  }
+  .subdomain {
+    overflow-wrap: break-word;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+    color: #696A6C;
+  }
+  .icon-secure {
+    margin: 2.5px 12px 3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 8px;
+    height: 10.5px;
+    box-sizing: border-box;
+  }
+  .left-locked-icons {
+    margin: 8px 15px 8px 0;
+    display: flex;
+    flex-direction: row;
+    width: 105px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .icon-home {
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 12px;
+    box-sizing: border-box;
+  }
+  .icon-refresh {
+    margin: 0 19px 0px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 12px;
+    box-sizing: border-box;
+  }
+  .icon-forward {
+    margin: 0 19px 0.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 11.7px;
+    box-sizing: border-box;
+  }
+  .icon-back {
+    margin: 0 19px 0.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 12px;
+    height: 11.7px;
+    box-sizing: border-box;
+  }
+  .toolbar-browser-controls {
+    border-radius: 8px 8px 0 0;
+    background: #DEE1E6;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 0 0 13px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .tab-plus {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .browser-controls {
+    margin: 7.5px 9px 14.5px 0;
+    display: flex;
+    flex-direction: row;
+    width: 52px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .option-expand {
+    border-radius: 6px;
+    background: #27CA40;
+    width: 12px;
+    height: 12px;
+  }
+  .option-minimize {
+    border-radius: 6px;
+    background: #FFC130;
+    margin-right: 8px;
+    width: 12px;
+    height: 12px;
+  }
+  .option-close {
+    border-radius: 6px;
+    background: #FF6058;
+    margin-right: 8px;
+    width: 12px;
+    height: 12px;
+  }
+  .topbar {
+    box-shadow: 0px 1px 0px 0px #E2E8F0;
+    background: #FFFFFF;
+    position: relative;
+    margin-bottom: 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 17px 68.2px 17px 60px;
+    width: 1440px;
+    box-sizing: border-box;
+  }
+  .group-1000003658 {
+    margin: 9px 0;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .ohospital-logo {
+    margin: 3px 8px 3px 0;
+    width: 34.1px;
+    height: 22px;
+  }
+  .ohospital {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 0.875;
+    color: #002E33;
+  }
+  .group-1000003675 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .group-1000004096 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .group-1000003666 {
+    display: flex;
+    flex-direction: row;
+    width: 74.4px;
+    box-sizing: border-box;
+  }
+  .group-1000003672 {
+    margin-right: 13.4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 46.9px;
+    height: 46px;
+    box-sizing: border-box;
+  }
+  .ellipse-2824 {
+    width: 46.9px;
+    height: 46px;
+  }
+  .frame {
+    margin: 19.9px 0 18.6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 14px;
+    height: 7.5px;
+    box-sizing: border-box;
+  }
+  .vector {
+    width: 14px;
+    height: 7.5px;
+  }
+  .group-1000003674 {
+    margin: 6px 15.3px 3px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    box-sizing: border-box;
+  }
+  .michael-oluoch {
+    margin-bottom: 1px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: var(--material-themelabellarge-font-family, 'Outfit');
+    font-weight: var(--material-themelabellarge-font-weight, 600);
+    font-size: var(--material-themelabellarge-font-size, 14px);
+    line-height: var(--material-themelabellarge-line-height, 1.429);
+    color: #002E33;
+  }
+  .doctor {
+    margin: 0 0px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.333;
+    color: #4C5B5D;
+  }
+  .group-1000004095 {
+    margin: 6px 12.4px 6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 34.7px;
+    height: 34px;
+    box-sizing: border-box;
+  }
+  .group-1000004097 {
+    width: 34.7px;
+    height: 34px;
+  }
+  .group-100000409712 {
+    margin: 6px 12.2px 6px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 34.7px;
+    height: 34px;
+    box-sizing: border-box;
+  }
+  .group-100000409713 {
+    width: 34.7px;
+    height: 34px;
+  }
+  .line-639 {
+    background: linear-gradient(180deg, #00CCE4, #0084E4);
+    margin-right: 13px;
+    width: 16px;
+    height: 80px;
+  }
+  .frame-17 {
+    margin-bottom: 54.7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18px;
+    height: 18.7px;
+    box-sizing: border-box;
+  }
+  .vector-18 {
+    width: 18px;
+    height: 18.7px;
+  }
+  .frame-19 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 24px;
+    height: 26px;
+    box-sizing: border-box;
+  }
+  .vector-20 {
+    width: 24px;
+    height: 26px;
+  }
+  .frame-21 {
+    margin: 0 0.7px 54px 1.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.5px;
+    height: 18px;
+    box-sizing: border-box;
+  }
+  .vector-22 {
+    width: 19.5px;
+    height: 18px;
+  }
+  .frame-23 {
+    margin: 0 0 52.5px 2.2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.5px;
+    height: 19.5px;
+    box-sizing: border-box;
+  }
+  .vector-24 {
+    width: 19.5px;
+    height: 19.5px;
+  }
+  .frame-25 {
+    margin: 0 0.7px 54.7px 1.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.5px;
+    height: 18.8px;
+    box-sizing: border-box;
+  }
+  .vector-26 {
+    width: 19.5px;
+    height: 18.8px;
+  }
+  .frame-27 {
+    margin: 0 0.7px 54.8px 2.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 18.8px;
+    height: 16.5px;
+    box-sizing: border-box;
+  }
+  .vector-28 {
+    width: 18.8px;
+    height: 16.5px;
+  }
+  .frame-29 {
+    margin: 0 0.7px 54px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 21px;
+    height: 18px;
+    box-sizing: border-box;
+  }
+  .vector-30 {
+    width: 21px;
+    height: 18px;
+  }
+  .frame-31 {
+    margin: 0 0.7px 51.7px 1.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.5px;
+    height: 18.8px;
+    box-sizing: border-box;
+  }
+  .vector-32 {
+    width: 19.5px;
+    height: 18.8px;
+  }
+  .frame-33 {
+    margin: 0 0.7px 0 1.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.5px;
+    height: 18.8px;
+    box-sizing: border-box;
+  }
+  .vector-34 {
+    width: 19.5px;
+    height: 18.8px;
+  }
+  .group-1000004154 {
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 0 5px 5px;
+    width: 388px;
+    box-sizing: border-box;
+  }
+  .frame-1000003565 {
+    background: #008999;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 15px 0;
+    width: 184px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .calendar-view {
+    overflow-wrap: break-word;
+    font-family: 'Outfit';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--material-themewhite, #FFFFFF);
+  }
+  .frame-1000003566 {
+    margin: 15px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-sizing: border-box;
+  }
+  .list-view {
+    overflow-wrap: break-word;
+    font-family: 'Outfit';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .button {
+    border-radius: 8px;
+    background: linear-gradient(180deg, #00CCE4, #0084E4);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px 24.1px;
+    box-sizing: border-box;
+  }
+  .january-2023 {
+    margin-right: 12px;
+    width: 115.5px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  .frame-35 {
+    margin: 5.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 7px;
+    height: 13px;
+    box-sizing: border-box;
+  }
+  .vector-36 {
+    width: 7px;
+    height: 13px;
+  }
+  .group-1000004162 {
+    position: relative;
+    margin: 0 16px 0 97px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 0 1px 11px;
+    box-sizing: border-box;
+  }
+  .group-1000003256 {
+    box-shadow: 0px 8px 13px -3px rgba(0, 0, 0, 0.07);
+    border-radius: 2px;
+    border: 1px solid #E2E8F0;
+    background: #FFFFFF;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 1px 0 85px 30.1px;
+    box-sizing: border-box;
+  }
+  .gmt-3 {
+    margin: 20px 20.3px 16px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  ._00-am {
+    margin: 0 0.1px 84px 0.1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.714;
+    color: #002E33;
+  }
+  ._00-am-37 {
+    margin: 0 0.2px 101px 0.2px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.714;
+    color: #002E33;
+  }
+  ._00-am-38 {
+    margin-bottom: 86px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.714;
+    color: #002E33;
+  }
+  ._00-am-39 {
+    margin: 0 0.1px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.714;
+    color: #002E33;
+  }
+  ._00-am-40 {
+    margin: 0 1.1px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.714;
+    color: #002E33;
+  }
+  .ellipse-2866 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/6b24ed89de4e3b6972a8a2e674cfbf003a193223?Expires=1712268274&KeyName=fn12-cdn&Signature=sha3wMxqzyfql7GJTMm7wfP6a3I=') 50% / cover no-repeat;
+    position: absolute;
+    right: 178px;
+    bottom: 299px;
+    width: 16px;
+    height: 16px;
+  }
+  .ellipse-2867 {
+    border-radius: 12px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/72ea5fd97a32a1ea4a4a441c94854ceb047cfafe?Expires=1712268274&KeyName=fn12-cdn&Signature=LmR8dKFmRIZlvw78JR8D6xem5PE=') 50% / cover no-repeat;
+    margin: 10px 0 9px 0;
+    width: 24px;
+    height: 24px;
+  }
+  .frame-1000004179 {
+    position: relative;
+    margin-right: 12.9px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 19px;
+    box-sizing: border-box;
+  }
+  .exam-review {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  ._300900 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #64878B;
+  }
+  .group-1000004158 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 1px;
+    box-sizing: border-box;
+  }
+  .frame-1000004177 {
+    position: relative;
+    margin-right: 31.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 7.1px 19px 0;
+    box-sizing: border-box;
+  }
+  .check-up {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  ._000830 {
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #64878B;
+  }
+  .rectangle-4946 {
+    background: #00CCE4;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 151px;
+    height: 3px;
+  }
+  .rectangle-5164 {
+    background: #00CCE4;
+    position: absolute;
+    right: 163px;
+    bottom: 281px;
+    width: 151px;
+    height: 3px;
+  }
+  .monday {
+    margin-right: 12px;
+    width: 155px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--white, #FFFFFF);
+  }
+  .tuesday {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--white, #FFFFFF);
+  }
+  .wednesday {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--white, #FFFFFF);
+  }
+  .thursday {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--white, #FFFFFF);
+  }
+  .friday {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--white, #FFFFFF);
+  }
+  .saturday {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: var(--white, #FFFFFF);
+  }
+  .line-158 {
+    background: #E2E8F0;
+    position: absolute;
+    left: 292px;
+    bottom: 0px;
+    width: 1px;
+    height: 575px;
+  }
+  .line-169 {
+    background: #E2E8F0;
+    position: absolute;
+    left: 122px;
+    bottom: 0px;
+    width: 1px;
+    height: 575px;
+  }
+  .line-159 {
+    background: #E2E8F0;
+    position: absolute;
+    left: 456px;
+    bottom: 0px;
+    width: 1px;
+    height: 575px;
+  }
+  .line-160 {
+    background: #E2E8F0;
+    position: absolute;
+    right: 479px;
+    bottom: 0px;
+    width: 1px;
+    height: 575px;
+  }
+  .line-161 {
+    background: #E2E8F0;
+    position: absolute;
+    right: 314px;
+    bottom: 0px;
+    width: 1px;
+    height: 575px;
+  }
+  .line-164 {
+    background: #E2E8F0;
+    position: absolute;
+    left: 0px;
+    top: 171px;
+    right: 2px;
+    height: 1px;
+  }
+  .frame-1000004176 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-2865 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/6b24ed89de4e3b6972a8a2e674cfbf003a193223?Expires=1712268274&KeyName=fn12-cdn&Signature=sha3wMxqzyfql7GJTMm7wfP6a3I=') 50% / cover no-repeat;
+    margin: 4px 8px 4px 0;
+    width: 16px;
+    height: 16px;
+  }
+  .maureen {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .frame-100000417742 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding-bottom: 19px;
+    box-sizing: border-box;
+  }
+  .appointment {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  ._000700 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #64878B;
+  }
+  .rectangle-494643 {
+    background: #00CCE4;
+    position: absolute;
+    left: 122px;
+    top: 60px;
+    width: 170px;
+    height: 3px;
+  }
+  .ellipse-286644 {
+    border-radius: 12px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/6b24ed89de4e3b6972a8a2e674cfbf003a193223?Expires=1712268274&KeyName=fn12-cdn&Signature=sha3wMxqzyfql7GJTMm7wfP6a3I=') 50% / cover no-repeat;
+    margin: 8px 0 11px 0;
+    width: 24px;
+    height: 24px;
+  }
+  .frame-100000417646 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-286547 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/72ea5fd97a32a1ea4a4a441c94854ceb047cfafe?Expires=1712268274&KeyName=fn12-cdn&Signature=LmR8dKFmRIZlvw78JR8D6xem5PE=') 50% / cover no-repeat;
+    margin: 4px 8px 4px 0;
+    width: 16px;
+    height: 16px;
+  }
+  .samuel {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .frame-100000417748 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding-bottom: 19px;
+    box-sizing: border-box;
+  }
+  .appointment-49 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  ._00070050 {   
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #64878B;
+  }
+  .rectangle-494651 {
+    background: #00CCE4;
+    position: absolute;
+    left: 292px;
+    top: 296px;
+    width: 164px;
+    height: 3px;
+  }
+  .group-1000004160 {
+    position: absolute;
+    left: 456px;
+    top: 171px;
+    padding-left: 1px;
+    box-sizing: border-box;
+  }
+  .frame-100000417653 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-286554 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/72ea5fd97a32a1ea4a4a441c94854ceb047cfafe?Expires=1712268274&KeyName=fn12-cdn&Signature=LmR8dKFmRIZlvw78JR8D6xem5PE=') 50% / cover no-repeat;
+    margin: 4px 8px 4px 0;
+    width: 16px;
+    height: 16px;
+  }
+  .samuel-55 {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .frame-100000417756 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding-bottom: 19px;
+    box-sizing: border-box;
+  }
+  .appointment-57 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  ._000800 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #64878B;
+  }
+  .rectangle-494658 {
+    background: #00CCE4;
+    position: absolute;
+    left: 50%;
+    top: 0px;
+    translate: -50% 0;
+    width: 186px;
+    height: 3px;
+  }
+  .frame-100000417660 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-286561 {
+    border-radius: 8px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/fbc23c4fa4b07dc38a9a0d7639ad01beb886db51?Expires=1712268274&KeyName=fn12-cdn&Signature=DIEO-TXobEnl-wiL0MAk3WwzsJ0=');
+    margin: 4px 8px 4px 0;
+    width: 16px;
+    height: 16px;
+  }
+  .samuel-62 {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .frame-100000417763 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: flex-start;
+    padding-bottom: 19px;
+    box-sizing: border-box;
+  }
+  .appointment-64 {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  ._001000 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #64878B;
+  }
+  .rectangle-494665 {
+    background: #00CCE4;
+    position: absolute;
+    right: 315px;
+    bottom: 227px;
+    width: 165px;
+    height: 3px;
+  }
+  .frame-1000004185 {
+    box-shadow: 0px 4px 16px 0px rgba(0, 204, 228, 0.08);
+    background: #FFFFFF;
+    position: absolute;
+    left: 367px;
+    bottom: 24px;
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+  .frame-1000004184 {
+    margin-bottom: 14px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .ellipse-2868 {
+    border-radius: 32px;
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/72ea5fd97a32a1ea4a4a441c94854ceb047cfafe?Expires=1712268274&KeyName=fn12-cdn&Signature=LmR8dKFmRIZlvw78JR8D6xem5PE=') 50% / cover no-repeat;
+    margin-right: 16px;
+    width: 64px;
+    height: 64px;
+  }
+  .frame-1000004183 {
+    margin-bottom: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .samuel-gikandi {
+    margin-bottom: 2px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.25;
+    color: #000000;
+  }
+  .frame-1000004182 {
+    margin-right: 16.5px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1000004095 {
+    position: relative;
+    margin-right: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 0 20px 0px;
+    box-sizing: border-box;
+  }
+  .gender {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #787680;
+  }
+  .male {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .institution {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 0 20px 0.1px;
+    box-sizing: border-box;
+  }
+  .age {
+    position: relative;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #787680;
+  }
+  ._37 {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans', sans-serif; /* Added a generic fallback font */
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  
+  .institution-66 {
+    margin-bottom: 14px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .bookmark {
+    position: relative;
+    margin: 3px 12px 3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10.3px 9px 10.3px 11.5px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .frame-67 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.5px;
+    height: 19.5px;
+    box-sizing: border-box;
+  }
+  .vector-68 {
+    width: 19.5px;
+    height: 19.5px;
+  }
+  .rectangle-5144 {
+    border-radius: 8px;
+    border: 1px solid #E4E1EC;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    width: 40px;
+    height: 40px;
+  }
+  .frame-100000409569 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .case {
+    margin: 0 0.1px 2px 0.1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #787680;
+  }
+  .insomnia-depression {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .institution-70 {
+    margin-bottom: 14px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .bookmark-71 {
+    position: relative;
+    margin: 3px 12px 3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10.3px 9px 10.3px 11.5px;
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+  }
+  .frame-72 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.5px;
+    height: 19.5px;
+    box-sizing: border-box;
+  }
+  .vector-73 {
+    width: 19.5px;
+    height: 19.5px;
+  }
+  .rectangle-514474 {
+    border-radius: 8px;
+    border: 1px solid #E4E1EC;
+    position: absolute;
+    left: 50%;
+    bottom: 0px;
+    translate: -50% 0;
+    width: 40px;
+    height: 40px;
+  }
+  .frame-100000409575 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .treatment {
+    margin: 0 0.1px 2px 0.1px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.429;
+    color: #787680;
+  }
+  .medication-therapy {
+    overflow-wrap: break-word;
+    font-family: 'Kumbh Sans';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #002E33;
+  }
+  .button-76 {
+    border: 1px solid #C9E5E8;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 11.5px 0;
+    width: 247px;
+    box-sizing: border-box;
+  }
+  .label-text {
+    overflow-wrap: break-word;
+    font-family: var(--material-themetitlesmall-font-family, 'Outfit');
+    font-weight: var(--material-themetitlesmall-font-weight, 600);
+    font-size: var(--material-themetitlesmall-font-size, 14px);
+    line-height: var(--material-themetitlesmall-line-height, 1.429);
+    color: #008999;
+  }
+  .frame-77 {
+    position: absolute;
+    top: 26.9px;
+    right: 20.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 15px;
+    height: 2.3px;
+    box-sizing: border-box;
+  }
+  .vector-78 {
+    width: 15px;
+    height: 2.3px;
+  }
+  .frame-1000004200 {
+    border: 1px solid #979797;
+    margin: 10px 24px 10.5px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 11px 12px;
+    width: 44px;
+    height: 43.5px;
+    box-sizing: border-box;
+  }
+  .vector-79 {
+    width: 18px;
+    height: 19.5px;
+  }
+  .frame-80 {
+    margin: 0 2px 45.8px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 19.5px;
+    height: 16.5px;
+    box-sizing: border-box;
+  }
+  .vector-81 {
+    width: 19.5px;
+    height: 16.5px;
+  }
+  .frame-1000004201 {
+    margin-right: 1.8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 21.7px;
+    box-sizing: border-box;
+  }
+  .container-82 {
+    background: #006874;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 18px 47.4px 18px 52.4px;
+    width: 998px;
+    box-sizing: border-box;
+  }
+  .container-84 {
+    margin: 28px 0 400px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .container-85 {
+    border-radius: 8px;
+    background: linear-gradient(180deg, #00CCE4, #0084E4);
+    position: relative;
+    margin: 8px 0;
+    padding: 17px 19px 21px 19px;
+    width: 64px;
+    height: 64px;
+    box-sizing: border-box;
+  }
+  .container-86 {
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-87 {
+    background: #EFFAFB;
+    position: relative;
+    margin-top: 111px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0 38px 11px;
+    width: 164px;
+    box-sizing: border-box;
+  }
+  .container-88 {
+    background: #E5FCFF;
+    position: relative;
+    margin-right: 13px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 66.3px 6px 440.7px 6px;
+    width: 132px;
+    box-sizing: border-box;
+  }
+  .container-89 {
+    background: #EFFAFB;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    padding: 8px 12px 4px 4px;
+    box-sizing: border-box;
+  }
+  .container-90 {
+    margin: 1px 0 121px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .container-91 {
+    position: absolute;
+    right: 163px;
+    bottom: 0px;
+    width: 1px;
+    height: 575px;
+  }
+  .container-92 {
+    background: #EFFAFB;
+    position: relative;
+    margin-left: 1px;
+    display: flex;
+    flex-direction: row;
+    padding: 7px 12px 4px 4px;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-93 {
+    margin-right: 60px;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .container-95 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .container-96 {
+    width: 3px;
+    height: 12px;
+  }
+  .container-97 {
+    width: 12px;
+    height: 11.5px;
+  }
+  .container-98 {
+    width: 8px;
+    height: 10.5px;
+  }
+  .container-99 {
+    width: 12px;
+    height: 12px;
+  }
+  .container-100 {
+    width: 12px;
+    height: 12px;
+  }
+  .container-101 {
+    width: 12px;
+    height: 11.7px;
+  }
+  .container-102 {
+    width: 12px;
+    height: 11.7px;
+  }
+  .curve-r {
+    margin-top: 26px;
+    width: 6px;
+    height: 8px;
+  }
+  .curve-l {
+    margin-top: 26px;
+    width: 6px;
+    height: 8px;
+  }
+  .favicon-text-icons {
+    border-radius: 8px 8px 0 0;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    padding: 9px 13.3px 9px 8px;
+    box-sizing: border-box;
+  }
+  .icon-close {
+    margin: 4.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 7.5px;
+    height: 7.5px;
+    box-sizing: border-box;
+  }
+  .container-103 {
+    width: 7.5px;
+    height: 7.5px;
+  }
+  .tab-name {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 0.2px;
+    line-height: 1.333;
+    color: #FFFFFF;
+  }
+  .favicon {
+    background: url('https://fn12.com/api/clusters/cluster-fn12-prod-europe-west1/projects/VUZ5CjTeAkcFadqY6EH8P1/assets/images/0c96ccfbda7bda53f39c1437cf5bb8dbdf5b6a60?Expires=1712268274&KeyName=fn12-cdn&Signature=dTuSiesrPtbLMZSSdYGxf_U9Avw=') 50% / cover no-repeat;
+    margin-right: 9px;
+    width: 16px;
+    height: 16px;
+  }
+  .frame-4 {
+    margin-right: 11.3px;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+  }
+  .icon-plus {
+    margin: 10.3px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 13.3px;
+    height: 13.3px;
+    box-sizing: border-box;
+  }
+  .icon-new-tab {
+    width: 13.3px;
+    height: 13.3px;
+  }
+  .label-text-104 {
+    overflow-wrap: break-word;
+    font-family: var(--material-themetitlemedium-font-family, 'Outfit');
+    font-weight: var(--material-themetitlemedium-font-weight, 600);
+    font-size: var(--material-themetitlemedium-font-size, 20px);
+    line-height: var(--material-themetitlemedium-line-height, 1.2);
+    color: #FFFFFF;
+  }
